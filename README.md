@@ -1,180 +1,170 @@
-Elyx Health Journey Visualizer
-A submission for the Elyx Hackathon (August 2025)
-An interactive, AI-powered web application that transforms 8 months of raw member chat logs into a transparent, data-driven health timeline.
-Built to solve the critical challenge of understanding the "why" behind every decision in a member's long-term health journey.
+<h1 align="center">Elyx Health Journey Visualizer</h1>
+<p align="center"><i>A submission for the Elyx Hackathon (August 2025)</i></p>
 
-🚀 Live Demo
-You can access the live, deployed web application here:
+---
 
-https://health-tracker-2v06sytld-priyansh-goyals-projects.vercel.app/
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Gemini%20Pro-8E77F0?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini Pro">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</p>
 
-✨ What is the Health Journey Visualizer?
-The Health Journey Visualizer is a tool for the Elyx team to retrospectively analyze a member's complete 8-month engagement. It ingests thousands of unstructured messages and presents them as a structured, interactive timeline, making it easy to pinpoint key events and understand the context behind every intervention.
+---
 
-Key Features
-AI-Generated Journey Episodes - Raw chat logs are automatically summarized into logical, weekly "episodes."
+### 🚀 Live Demo
+👉 [Click here to view the deployed app](https://health-tracker-2v06sytld-priyansh-goyals-projects.vercel.app/)
 
-Interactive Chat Timeline - Instantly load and review the detailed conversations for any given week.
+---
 
-One-Click Decision Traceability - Click on any decision to see an AI-generated summary of the trigger and rationale, directly linked to the conversations that caused it.
+### ✨ What is the Health Journey Visualizer?
+The **Health Journey Visualizer** is an interactive, AI-powered tool that transforms **8 months of raw chat logs** into a structured, interactive timeline.  
 
-Analytics Dashboards - Visualize high-level trends for member adherence, stress levels, and team engagement.
+It helps the Elyx team analyze member engagement, **pinpoint key events**, and understand the **“why”** behind every decision.
 
-Modern React Frontend - A clean, responsive UI built with modern React and Chart.js.
+---
 
-Automated Data Pipeline - A series of Python scripts that use the Gemini API to process and structure the data.
+### 🔑 Key Features
+- **AI-Generated Journey Episodes** → Weekly summaries of raw chat logs.  
+- **Interactive Chat Timeline** → Drill down into conversations week by week.  
+- **One-Click Decision Traceability** → See rationale for every decision.  
+- **Analytics Dashboards** → Visualize trends like stress, adherence, and engagement.  
+- **Modern React Frontend** → Responsive, clean UI with Chart.js.  
+- **Automated Data Pipeline** → Python + Gemini API for processing.  
 
-💡 Why This Project Matters
-This project directly addresses a core challenge for any long-term health service: maintaining clarity and accountability. While traditional record-keeping can show what was done, this tool reveals why.
+---
 
-From Data Chaos to Clarity
-This tool transforms unstructured data into actionable insights, solving a key business problem.
+### 💡 Why This Project Matters
+Most health platforms show *what* was done.  
+This tool reveals *why* it was done.  
 
-┌─────────────────────────────────────────────────────────┐
-│        The Transformation: Unstructured vs. Structured  │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  Raw Data (Before)                                      │
-│  - 2000+ individual JSON messages                       │
-│  - No inherent structure or context                     │
-│  - Time-consuming to find key decisions                 │
-│  - Rationale is buried in conversation                  │
-│                                                         │
-│  Structured Insights (After)                            │
-│  - 32 AI-summarized weekly episodes                     │
-│  - 15+ AI-analyzed decision traces                      │
-│  - One-click access to decision rationale               │
-│  - Visual dashboards for instant trend analysis         │
-│                                                         │
-│  This represents a >95% reduction in the time needed    │
-│  to analyze a member's journey.                         │
-└─────────────────────────────────────────────────────────┘
-🏗️ Architecture: The Data Pipeline
-The application is powered by a 3-step automated data processing pipeline that runs before the frontend is ever loaded.
+It turns **chaotic, unstructured chat data** into **clear, actionable insights**.
 
+---
+
+### 📊 From Data Chaos to Clarity
+
+| **Raw Data (Before)** | **Structured Insights (After)** |
+|------------------------|---------------------------------|
+| 2000+ JSON messages | 32 AI-summarized weekly episodes |
+| No inherent structure or context | 15+ AI-analyzed decision traces |
+| Hard to find key decisions | One-click rationale access |
+| Rationale buried in chat | Visual dashboards for instant analysis |
+
+✅ **95%+ reduction in analysis time**
+
+---
+
+### 🏗️ Architecture: The Data Pipeline
+
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                 AI-Powered Data Pipeline                    │
 ├─────────────────────────────────────────────────────────────┤
+│ Step 1: Chat Generation (main.py)                           │
+│   Gemini → 8 months chats → all_chats.json                  │
 │                                                             │
-│  Step 1: Chat Generation (main.py)                          │
-│  [Gemini API] → Simulates 8 months of chats → all_chats.json │
-│      ↓                                                      │
-│  Step 2: Episode Summarization (journey.py)                 │
-│  [all_chats.json] → [Gemini API] → journey_episodes.json     │
-│      ↓                                                      │
-│  Step 3: Decision Analysis (decision.py)                    │
-│  [all_chats.json] → [Gemini API] → individual_traces.json    │
-│      ↓                                                      │
-│  Final Output: Structured data ready for the React UI       │
+│ Step 2: Episode Summarization (journey.py)                  │
+│   all_chats.json → Gemini → journey_episodes.json           │
 │                                                             │
+│ Step 3: Decision Analysis (decision.py)                     │
+│   all_chats.json → Gemini → individual_traces.json          │
+│                                                             │
+│ Final Output → Structured data for React UI                 │
 └─────────────────────────────────────────────────────────────┘
+```
+
 🛠️ Technology Stack
-Data Pipeline (Backend Logic)
-Python 3.x - For scripting the data processing pipeline.
-
-Google Gemini 2.5 Pro - The core AI model for generation, summarization, and analysis.
-
-python-dotenv - For managing API keys.
-
+Backend / Data Pipeline
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Gemini%20Pro-8E77F0?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Gemini Pro"> <img src="https://img.shields.io/badge/dotenv-000000?style=for-the-badge&logo=dotenv&logoColor=white" alt="dotenv"> </p>
 Frontend
-React 18 - Modern hooks-based architecture (useState, useEffect).
-
-React Router - For multi-page navigation (Journey vs. Dashboard).
-
-Chart.js - For creating the analytics dashboards.
-
-Vercel - For seamless deployment and hosting.
+<p> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router"> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"> </p>
 
 📂 Project Structure
+```
 elyx-hackathon-submission/
-├── data/                       # All generated JSON data
-│   ├── decisions/             # Individual decision trace JSON files
+├── data/                       # Generated JSON data
+│   ├── decisions/              # Individual decision traces
 │   ├── all_chats.json
 │   └── journey_episodes.json
-├── prompts/                    # The prompts for the Gemini API
+├── prompts/                    # Gemini prompts
 │   ├── chat_generation.md
 │   ├── decision_trace.md
 │   └── journey_summary.md
-├── webapp/                     # The React frontend application
+├── webapp/                     # React frontend
 │   ├── src/
-│   │   ├── data/              # A copy of the data for the app to use
-│   │   ├── App.js             # Main router
-│   │   ├── JourneyView.js     # The core chat/episode component
-│   │   └── Dashboard.js       # The analytics dashboard component
+│   │   ├── data/               # Local copy of data
+│   │   ├── App.js              # Main router
+│   │   ├── JourneyView.js      # Chat/episode timeline
+│   │   └── Dashboard.js        # Analytics dashboard
 │   └── package.json
-├── .gitignore
-├── decision.py                 # Python script for Step 3
-├── journey.py                  # Python script for Step 2
-├── main.py                     # Python script for Step 1
+├── main.py                     # Step 1: Chat generation
+├── journey.py                  # Step 2: Episode summarization
+├── decision.py                 # Step 3: Decision analysis
 └── README.md
+```
 🚀 Getting Started
 Prerequisites
 Python 3.x
 
 Node.js 18+
 
-A Google Gemini API Key
+Google Gemini API Key
 
-Installation & Running
-Clone the Repository
-
-Bash
-
+Setup
+bash
+Copy
+Edit
+# Clone the repo
 git clone <your-repo-url>
 cd <your-repo-folder>
-Set up the Python Environment
 
-Bash
-
+# Install backend dependencies
 pip install -r requirements.txt
-# Create a .env file and add: GEMINI_API_KEY=YOUR_API_KEY_HERE
-Run the Data Pipeline
 
-Bash
-
+# Add API key
+echo "GEMINI_API_KEY=YOUR_API_KEY_HERE" > .env
+Run Data Pipeline
+bash
+Copy
+Edit
 python main.py
 python journey.py
 python decision.py
-Start the React Frontend
-
-Bash
-
+Start Frontend
+bash
+Copy
+Edit
 cd webapp
 npm install
 npm start
-See the App in Action
+Open 👉 http://localhost:3000
 
-Open your browser to http://localhost:3000.
 
-Click on episodes, view chats, and click on decisions to see the rationale.
-
-Navigate to the Dashboard to see the analytics.
 
 💡 Decision Traceability in Action
-The core feature is the ability to instantly understand the "why" behind any decision.
+```javascript
+// In JourneyView.js
 
-JavaScript
+// 1. Mark decision messages with special style
+<div className="chat-bubble decision" 
+     onClick={() => handleDecisionClick(decisionId)}>...</div>
 
-// Conceptual logic in JourneyView.js
-
-// 1. A decision message is identified and rendered with a special style
-<div className="chat-bubble decision" onClick={() => handleDecisionClick(decisionId)}>...</div>
-
-// 2. When clicked, the app dynamically loads the corresponding trace file
+// 2. Load corresponding trace file dynamically
 const handleDecisionClick = (decisionId) => {
     import(`./data/decisions/${decisionId}.json`)
-        .then(trace => {
-            // 3. The AI-generated rationale is displayed in a modal
-            setDecisionTrace(trace);
-        });
+        .then(trace => setDecisionTrace(trace));
 };
-🌟 Future Prospects
-This project provides a strong foundation that can be extended with more advanced features:
+```
+### 🌟 Future Prospects
+Sentiment Analysis → Track frustration/happiness trends.
 
-Sentiment Analysis: Track member sentiment (frustration, happiness) over time on the dashboard.
+Predictive Alerts → Detect early warning signs (e.g., sleep issues).
 
-Predictive Intervention Alerts: Use AI to detect patterns in chat (e.g., repeated mentions of poor sleep) and alert the Elyx team proactively.
+Wearable Integration → Sync Garmin/Oura data with chat context.
 
-Direct Wearable Integration: Connect directly to Garmin/Oura APIs to correlate chat data with real-time physiological data.
+Natural Language Querying → Ask: “Show me all conversations about Rohan’s BP in May.”
 
-Natural Language Querying: Implement a chat agent where a team member can ask questions like, "Show me all conversations about Rohan's blood pressure in May."
