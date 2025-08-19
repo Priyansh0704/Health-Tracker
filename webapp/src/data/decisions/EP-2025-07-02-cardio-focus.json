@@ -1,0 +1,11 @@
+{
+  "decision_id": "EP-2025-07-02-cardio-focus",
+  "summary": "To create a new exercise plan focused on Zone 2 cardio and strength training to improve cardiovascular and metabolic health.",
+  "trigger": "Dr. Warren initiated an aggressive lifestyle intervention to lower health markers before considering medication.",
+  "rationale": [
+    "Dr. Warren requested a targeted exercise plan as part of an effort to avoid prescribing medication like a statin.",
+    "The plan incorporates Zone 2 cardio specifically to improve cardiovascular efficiency.",
+    "Resistance training was included to help with metabolic health."
+  ],
+  "owner": "Rachel"
+}

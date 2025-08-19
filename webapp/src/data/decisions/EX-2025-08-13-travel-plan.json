@@ -1,0 +1,10 @@
+{
+  "decision_id": "EX-2025-08-13-travel-plan",
+  "summary": "To provide Rohan with a new 2-week exercise plan containing travel-specific, bodyweight-only options.",
+  "trigger": "Rohan's upcoming travel to London, requiring an adapted exercise plan.",
+  "rationale": [
+    "The plan was designed with bodyweight-only options suitable for a hotel room.",
+    "Workouts focus on mobility and HIIT to be time-efficient during travel."
+  ],
+  "owner": "Rachel"
+}

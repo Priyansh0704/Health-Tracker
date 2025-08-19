@@ -1,0 +1,590 @@
+[
+  {
+    "id": "1",
+    "ts": "2025-01-01 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Good morning!  Ready to tackle January's health goals."
+  },
+  {
+    "id": "2",
+    "ts": "2025-01-01 08:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Good morning, Rohan! Let's review your January plan."
+  },
+  {
+    "id": "3",
+    "ts": "2025-01-01 08:20",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Your blood pressure readings are due this week.  Can you schedule a quick check?"
+  },
+  {
+    "id": "4",
+    "ts": "2025-01-01 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will do. Traveling to London tomorrow, will get it done on Friday."
+  },
+  {
+    "id": "5",
+    "ts": "2025-01-01 10:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Good to hear from you, Rohan. Remember to track your BP even while traveling."
+  },
+  {
+    "id": "6",
+    "ts": "2025-01-03 16:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is 130/85. Slightly high."
+  },
+  {
+    "id": "7",
+    "ts": "2025-01-03 16:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Okay. Let's maintain the current medication and monitor closely."
+  },
+  {
+    "id": "8",
+    "ts": "2025-01-04 07:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "In London.  Busy week, might miss some workouts."
+  },
+  {
+    "id": "9",
+    "ts": "2025-01-04 07:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Understand.  Short, effective routines are key when traveling. Suggest focusing on bodyweight exercises."
+  },
+  {
+    "id": "10",
+    "ts": "2025-01-05 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my evening walk today."
+  },
+  {
+    "id": "11",
+    "ts": "2025-01-06 09:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No worries, Rohan. Consistency is more important than perfection.  Let's adjust your schedule."
+  },
+  {
+    "id": "12",
+    "ts": "2025-01-06 09:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Okay.  Any suggestions for quick hotel workouts?"
+  },
+  {
+    "id": "13",
+    "ts": "2025-01-06 09:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Sent you a short routine. Focus on core & flexibility."
+  },
+  {
+    "id": "14",
+    "ts": "2025-01-08 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore. Feeling a bit sluggish."
+  },
+  {
+    "id": "15",
+    "ts": "2025-01-08 11:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's review your diet.  Perhaps we need some adjustments."
+  },
+  {
+    "id": "16",
+    "ts": "2025-01-09 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I’ve been eating out a lot while traveling.  Need to get back on track."
+  },
+  {
+    "id": "17",
+    "ts": "2025-01-09 14:30",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I've sent you a meal plan focusing on easy-to-prepare, healthy meals."
+  },
+  {
+    "id": "18",
+    "ts": "2025-01-10 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Meal plan looks good.  Will try my best to follow it."
+  },
+  {
+    "id": "19",
+    "ts": "2025-01-12 08:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your sleep score has dipped slightly this week. Any changes in your routine?"
+  },
+  {
+    "id": "20",
+    "ts": "2025-01-12 08:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jet lag is a factor.  Getting better now."
+  },
+  {
+    "id": "21",
+    "ts": "2025-01-12 08:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Okay. Let's monitor it.  Prioritize consistent sleep patterns for better recovery."
+  },
+  {
+    "id": "22",
+    "ts": "2025-01-15 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed yesterday's workout."
+  },
+  {
+    "id": "23",
+    "ts": "2025-01-15 10:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's reschedule.  How about a session tomorrow morning?"
+  },
+  {
+    "id": "24",
+    "ts": "2025-01-15 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Works for me."
+  },
+  {
+    "id": "25",
+    "ts": "2025-01-17 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling much better now.  Back on track with my workouts and diet."
+  },
+  {
+    "id": "26",
+    "ts": "2025-01-17 16:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Great to hear, Rohan! Keep up the good work."
+  },
+  {
+    "id": "27",
+    "ts": "2025-01-18 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Traveling to South Korea tomorrow for a week.  Will try my best to maintain the routine."
+  },
+  {
+    "id": "28",
+    "ts": "2025-01-18 09:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Will make sure your plan is flexible for your trip."
+  },
+  {
+    "id": "29",
+    "ts": "2025-01-22 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore!  Feeling pretty good, actually."
+  },
+  {
+    "id": "30",
+    "ts": "2025-01-22 14:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Wonderful news, Rohan!"
+  },
+  {
+    "id": "31",
+    "ts": "2025-01-23 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My BP is still a little elevated.  Any suggestions?"
+  },
+  {
+    "id": "32",
+    "ts": "2025-01-23 10:30",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick check-up next week to discuss this further."
+  },
+  {
+    "id": "33",
+    "ts": "2025-01-24 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout this morning."
+  },
+  {
+    "id": "34",
+    "ts": "2025-01-24 15:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No problem, Rohan.  Let's focus on getting back on track.  How about a session tomorrow?"
+  },
+  {
+    "id": "35",
+    "ts": "2025-01-25 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Couldn't make it to the session today either."
+  },
+  {
+    "id": "36",
+    "ts": "2025-01-25 18:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, let’s chat on the phone briefly to discuss your schedule."
+  },
+  {
+    "id": "37",
+    "ts": "2025-01-27 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Had a really busy weekend.  Didn't stick to the diet plan strictly."
+  },
+  {
+    "id": "38",
+    "ts": "2025-01-27 10:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Understand.  Let's adjust your plan to account for your busy schedule.  More practical options?"
+  },
+  {
+    "id": "39",
+    "ts": "2025-01-28 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling a bit stressed this week."
+  },
+  {
+    "id": "40",
+    "ts": "2025-01-28 14:15",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Stress can impact your BP and sleep.  Mindfulness exercises could help.  Any interest?"
+  },
+  {
+    "id": "41",
+    "ts": "2025-01-29 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Yes, I'm open to trying mindfulness."
+  },
+  {
+    "id": "42",
+    "ts": "2025-01-29 09:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "I'll send you some guided meditation resources."
+  },
+  {
+    "id": "43",
+    "ts": "2025-01-30 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed to squeeze in a workout today!"
+  },
+  {
+    "id": "44",
+    "ts": "2025-01-30 17:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Fantastic!  Small wins add up.  Keep it going!"
+  },
+  {
+    "id": "45",
+    "ts": "2025-01-31 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Checking in.  How are my overall metrics looking?"
+  },
+  {
+    "id": "46",
+    "ts": "2025-01-31 10:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Overall, adherence is around 60% this month.  We can work on improving this further."
+  },
+  {
+    "id": "47",
+    "ts": "2025-01-31 10:45",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good progress, Rohan.  We'll continue refining your plan next month."
+  },
+  {
+    "id": "48",
+    "ts": "2025-01-31 11:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "(Internally) Ruby, ensure Dr. Warren has ample time for Rohan's check-up next week."
+  },
+  {
+    "id": "49",
+    "ts": "2025-01-31 11:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "(Internally) Will do, Neel.  Booked him in for 30 mins next Tuesday."
+  },
+  {
+    "id": "50",
+    "ts": "2025-01-02 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question about the diet."
+  },
+  {
+    "id": "51",
+    "ts": "2025-01-02 14:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Ask away!"
+  },
+  {
+    "id": "52",
+    "ts": "2025-01-02 14:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Can I substitute this for that?"
+  },
+  {
+    "id": "53",
+    "ts": "2025-01-02 14:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let me check the nutritional values.  One moment."
+  },
+  {
+    "id": "54",
+    "ts": "2025-01-02 14:25",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Yes, that substitution works fine."
+  },
+  {
+    "id": "55",
+    "ts": "2025-01-07 19:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "How's my progress?"
+  },
+  {
+    "id": "56",
+    "ts": "2025-01-07 19:40",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Sleep score improving, BP needs monitoring."
+  },
+  {
+    "id": "57",
+    "ts": "2025-01-07 19:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Ok."
+  },
+  {
+    "id": "58",
+    "ts": "2025-01-11 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Busy day, skipped exercise."
+  },
+  {
+    "id": "59",
+    "ts": "2025-01-11 12:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Try a shorter session tomorrow?"
+  },
+  {
+    "id": "60",
+    "ts": "2025-01-11 12:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will try."
+  },
+  {
+    "id": "61",
+    "ts": "2025-01-14 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Blood pressure a bit high again."
+  },
+  {
+    "id": "62",
+    "ts": "2025-01-14 08:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's discuss at your next check-up."
+  },
+  {
+    "id": "63",
+    "ts": "2025-01-16 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Any updates on my ApoB levels?"
+  },
+  {
+    "id": "64",
+    "ts": "2025-01-16 15:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "We'll check them at your next full diagnostic in March."
+  },
+  {
+    "id": "65",
+    "ts": "2025-01-19 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed workout yesterday."
+  },
+  {
+    "id": "66",
+    "ts": "2025-01-19 10:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, let’s schedule a catch-up call."
+  },
+  {
+    "id": "67",
+    "ts": "2025-01-20 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Diet going well."
+  },
+  {
+    "id": "68",
+    "ts": "2025-01-20 17:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Excellent!"
+  },
+  {
+    "id": "69",
+    "ts": "2025-01-21 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today."
+  },
+  {
+    "id": "70",
+    "ts": "2025-01-21 09:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Great to hear!"
+  },
+  {
+    "id": "71",
+    "ts": "2025-01-26 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped a workout again."
+  },
+  {
+    "id": "72",
+    "ts": "2025-01-26 14:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's find a time to chat about your schedule."
+  },
+  {
+    "id": "73",
+    "ts": "2025-01-29 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Trying to be more consistent."
+  },
+  {
+    "id": "74",
+    "ts": "2025-01-29 18:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good effort, Rohan."
+  },
+  {
+    "id": "75",
+    "ts": "2025-01-31 20:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks for the support this month."
+  },
+  {
+    "id": "76",
+    "ts": "2025-01-31 20:05",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Our pleasure, Rohan.  See you next month!"
+  },
+  {
+    "id": "M77",
+    "ts": "2025-01-31 20:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Have a good one!"
+  },
+  {
+    "id": "M78",
+    "ts": "2025-01-31 20:12",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "You too, Rohan!"
+  },
+  {
+    "id": "M79",
+    "ts": "2025-01-22 14:35",
+    "sender": "Anika Sharma",
+    "role": "member",
+    "text": "Hi Neel, could you please help me with...?"
+  },
+  {
+    "id": "M80",
+    "ts": "2025-01-22 14:40",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Hi Anika, certainly!  Please tell me more."
+  },
+  {
+    "id": "M81",
+    "ts": "2025-01-22 15:05",
+    "sender": "Anika Sharma",
+    "role": "member",
+    "text": "Thanks Neel, it's sorted now!"
+  },
+  {
+    "id": "M82",
+    "ts": "2025-01-22 15:06",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Great, Anika! Let me know if anything else comes up."
+  },
+  {
+    "id": "M83",
+    "ts": "2025-01-15 11:20",
+    "sender": "Priya Desai",
+    "role": "member",
+    "text": "Quick question for the concierge team."
+  },
+  {
+    "id": "M84",
+    "ts": "2025-01-15 11:25",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Hi Priya, I'm available. What can I help you with?"
+  }
+]

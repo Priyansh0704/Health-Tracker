@@ -1,0 +1,11 @@
+{
+  "decision_id": "NP-2025-07-01-apoB-diet",
+  "summary": "To initiate an ApoB-lowering nutrition plan focused on high fiber and unsaturated fats.",
+  "trigger": "Rohan's lab results showed elevated ApoB at 115 mg/dL and hs-CRP at 2.8 mg/L, indicating increased cardiovascular risk.",
+  "rationale": [
+    "Dr. Warren's primary goal was to lower these markers through an aggressive lifestyle intervention before considering medication.",
+    "Carla proposed a plan focused on high fiber, healthy fats, and reduced saturated fat specifically to target ApoB.",
+    "Rohan agreed to the nutritional plan, asking for it to be simple and practical."
+  ],
+  "owner": "Carla"
+}

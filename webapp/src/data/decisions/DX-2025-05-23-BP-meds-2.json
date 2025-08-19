@@ -1,0 +1,7 @@
+{
+  "decision_id": "DX-2025-05-23-BP-meds-2",
+  "summary": "To make a minor adjustment to blood pressure medication and continue monitoring BP and diet.",
+  "trigger": "The decision was prompted by the member's latest blood pressure readings.",
+  "rationale": [],
+  "owner": "Dr. Warren"
+}

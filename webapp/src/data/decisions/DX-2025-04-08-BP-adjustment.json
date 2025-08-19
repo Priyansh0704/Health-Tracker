@@ -1,0 +1,9 @@
+{
+  "decision_id": "DX-2025-04-08-BP-adjustment",
+  "summary": "To make a slight adjustment to the member's blood pressure medication.",
+  "trigger": "A check-up was completed.",
+  "rationale": [
+    "The decision was made following the completion of a check-up."
+  ],
+  "owner": "Dr. Warren"
+}

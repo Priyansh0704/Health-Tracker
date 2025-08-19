@@ -1,0 +1,9 @@
+{
+  "decision_id": "DX-2025-02-27-BP-med-adj",
+  "summary": "To adjust Rohan's blood pressure medication.",
+  "trigger": "The specific trigger is not available as no driver messages were provided.",
+  "rationale": [
+    "No rationale is available as no driver messages were provided to establish context."
+  ],
+  "owner": "Dr. Warren"
+}

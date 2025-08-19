@@ -1,0 +1,127 @@
+body {
+  font-family: sans-serif;
+  background-color: #f4f7f6;
+}
+
+.app-container {
+  display: flex;
+  height: 100vh;
+}
+
+.panel-header {
+  padding: 10px 15px;
+  border-bottom: 1px solid #ddd;
+  background-color: #fff;
+}
+
+.panel-header h2, .panel-header h3 {
+  margin: 0;
+}
+
+.episode-list-panel {
+  flex: 1;
+  border-right: 1px solid #ddd;
+  display: flex;
+  flex-direction: column;
+}
+
+.episodes-list {
+  overflow-y: auto;
+  flex-grow: 1;
+}
+
+.episode-card {
+  padding: 10px 15px;
+  border-bottom: 1px solid #eee;
+  cursor: pointer;
+}
+
+.episode-card:hover {
+  background-color: #e9f5ff;
+}
+
+.episode-card h4, .episode-card p {
+  margin: 5px 0;
+}
+
+.chat-window-panel {
+  flex: 2;
+}
+
+.chat-messages {
+  padding: 20px;
+}
+/* Add this to the end of your App.css file */
+.chat-bubble {
+    padding: 10px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    max-width: 70%;
+}
+
+.chat-bubble p {
+    margin: 0;
+}
+
+.chat-bubble.member {
+    background-color: #dcf8c6;
+    align-self: flex-end; /* This won't work without a flex container, but shows intent */
+    margin-left: auto;
+}
+
+.chat-bubble.team {
+    background-color: #fff;
+    border: 1px solid #eee;
+}
+/* Add this to the end of your App.css file */
+.chat-bubble.decision {
+    background-color: #fff8c4;
+    border: 1px solid #f2c700;
+    cursor: pointer;
+}
+
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-content {
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 8px;
+    width: 500px;
+    max-width: 90%;
+}
+
+.modal-content ul {
+    padding-left: 20px;
+}
+.episode-card.active {
+  background-color: #e9f5ff;
+  border-left: 3px solid #007bff;
+}
+/* Add this to your App.css */
+.main-nav {
+  background-color: #333;
+  padding: 10px 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.main-nav a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.main-nav a:hover {
+  text-decoration: underline;
+}

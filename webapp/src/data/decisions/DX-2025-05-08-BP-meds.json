@@ -1,0 +1,9 @@
+{
+  "decision_id": "DX-2025-05-08-BP-meds",
+  "summary": "To adjust the blood pressure medication dosage.",
+  "trigger": "Information not available in the provided messages.",
+  "rationale": [
+    "Information not available in the provided messages."
+  ],
+  "owner": "Dr. Warren"
+}

@@ -1,0 +1,11 @@
+{
+  "decision_id": "EP-2025-07-09-travel",
+  "summary": "To create a simplified hotel workout plan for Rohan's upcoming trip to Jakarta to maintain activity levels.",
+  "trigger": "Rohan Patel informed the team that he would be traveling to Jakarta from July 15th to 19th for all-day meetings.",
+  "rationale": [
+    "Rohan's schedule of 'Meetings all day' suggested his regular fitness routine would be disrupted.",
+    "The decision to create a simplified plan acknowledges the constraints of business travel, focusing on maintaining activity rather than peak performance.",
+    "Rohan specified he would be staying at The Ritz-Carlton, allowing Rachel to confirm the availability of a gym and tailor the plan accordingly."
+  ],
+  "owner": "Rachel"
+}

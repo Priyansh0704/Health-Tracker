@@ -1,0 +1,10 @@
+{
+  "decision_id": "PLAN-2025-06-09-nyc-travel",
+  "summary": "To adjust the member's health plan with simplified workouts and nutrition guidance for upcoming travel to NYC.",
+  "trigger": "The member has upcoming travel to NYC scheduled for June 16-21.",
+  "rationale": [
+    "The plan required adjustment to accommodate the member's travel schedule.",
+    "The adjustments included simplified workouts and nutrition guidance."
+  ],
+  "owner": "Ruby"
+}

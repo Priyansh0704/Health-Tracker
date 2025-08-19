@@ -1,0 +1,9 @@
+{
+  "decision_id": "CON-2025-06-30-q2-review",
+  "summary": "To schedule the member's Q2 diagnostic review consultation with Dr. Warren.",
+  "trigger": "The need for a standard Q2 diagnostic review as part of the health program.",
+  "rationale": [
+    "The decision message explicitly states the appointment is for a 'Q2 diagnostic review consultation'."
+  ],
+  "owner": "Ruby"
+}

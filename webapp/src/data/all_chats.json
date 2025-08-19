@@ -1,0 +1,5995 @@
+[
+  {
+    "id": "1",
+    "ts": "2025-01-01 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Good morning!  Ready to tackle January's health goals."
+  },
+  {
+    "id": "2",
+    "ts": "2025-01-01 08:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Good morning, Rohan! Let's review your January plan."
+  },
+  {
+    "id": "3",
+    "ts": "2025-01-01 08:20",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Your blood pressure readings are due this week.  Can you schedule a quick check?"
+  },
+  {
+    "id": "4",
+    "ts": "2025-01-01 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will do. Traveling to London tomorrow, will get it done on Friday."
+  },
+  {
+    "id": "5",
+    "ts": "2025-01-01 10:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Good to hear from you, Rohan. Remember to track your BP even while traveling."
+  },
+  {
+    "id": "6",
+    "ts": "2025-01-03 16:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is 130/85. Slightly high."
+  },
+  {
+    "id": "7",
+    "ts": "2025-01-03 16:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Okay. Let's maintain the current medication and monitor closely."
+  },
+  {
+    "id": "8",
+    "ts": "2025-01-04 07:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "In London.  Busy week, might miss some workouts."
+  },
+  {
+    "id": "9",
+    "ts": "2025-01-04 07:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Understand.  Short, effective routines are key when traveling. Suggest focusing on bodyweight exercises."
+  },
+  {
+    "id": "10",
+    "ts": "2025-01-05 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my evening walk today."
+  },
+  {
+    "id": "11",
+    "ts": "2025-01-06 09:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No worries, Rohan. Consistency is more important than perfection.  Let's adjust your schedule."
+  },
+  {
+    "id": "12",
+    "ts": "2025-01-06 09:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Okay.  Any suggestions for quick hotel workouts?"
+  },
+  {
+    "id": "13",
+    "ts": "2025-01-06 09:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Sent you a short routine. Focus on core & flexibility."
+  },
+  {
+    "id": "14",
+    "ts": "2025-01-08 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore. Feeling a bit sluggish."
+  },
+  {
+    "id": "15",
+    "ts": "2025-01-08 11:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's review your diet.  Perhaps we need some adjustments."
+  },
+  {
+    "id": "16",
+    "ts": "2025-01-09 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I’ve been eating out a lot while traveling.  Need to get back on track."
+  },
+  {
+    "id": "17",
+    "ts": "2025-01-09 14:30",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I've sent you a meal plan focusing on easy-to-prepare, healthy meals."
+  },
+  {
+    "id": "18",
+    "ts": "2025-01-10 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Meal plan looks good.  Will try my best to follow it."
+  },
+  {
+    "id": "19",
+    "ts": "2025-01-12 08:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your sleep score has dipped slightly this week. Any changes in your routine?"
+  },
+  {
+    "id": "20",
+    "ts": "2025-01-12 08:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jet lag is a factor.  Getting better now."
+  },
+  {
+    "id": "21",
+    "ts": "2025-01-12 08:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Okay. Let's monitor it.  Prioritize consistent sleep patterns for better recovery."
+  },
+  {
+    "id": "22",
+    "ts": "2025-01-15 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed yesterday's workout."
+  },
+  {
+    "id": "23",
+    "ts": "2025-01-15 10:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's reschedule.  How about a session tomorrow morning?"
+  },
+  {
+    "id": "24",
+    "ts": "2025-01-15 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Works for me."
+  },
+  {
+    "id": "25",
+    "ts": "2025-01-17 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling much better now.  Back on track with my workouts and diet."
+  },
+  {
+    "id": "26",
+    "ts": "2025-01-17 16:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Great to hear, Rohan! Keep up the good work."
+  },
+  {
+    "id": "27",
+    "ts": "2025-01-18 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Traveling to South Korea tomorrow for a week.  Will try my best to maintain the routine."
+  },
+  {
+    "id": "28",
+    "ts": "2025-01-18 09:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Will make sure your plan is flexible for your trip."
+  },
+  {
+    "id": "29",
+    "ts": "2025-01-22 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore!  Feeling pretty good, actually."
+  },
+  {
+    "id": "30",
+    "ts": "2025-01-22 14:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Wonderful news, Rohan!"
+  },
+  {
+    "id": "31",
+    "ts": "2025-01-23 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My BP is still a little elevated.  Any suggestions?"
+  },
+  {
+    "id": "32",
+    "ts": "2025-01-23 10:30",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick check-up next week to discuss this further."
+  },
+  {
+    "id": "33",
+    "ts": "2025-01-24 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout this morning."
+  },
+  {
+    "id": "34",
+    "ts": "2025-01-24 15:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No problem, Rohan.  Let's focus on getting back on track.  How about a session tomorrow?"
+  },
+  {
+    "id": "35",
+    "ts": "2025-01-25 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Couldn't make it to the session today either."
+  },
+  {
+    "id": "36",
+    "ts": "2025-01-25 18:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, let’s chat on the phone briefly to discuss your schedule."
+  },
+  {
+    "id": "37",
+    "ts": "2025-01-27 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Had a really busy weekend.  Didn't stick to the diet plan strictly."
+  },
+  {
+    "id": "38",
+    "ts": "2025-01-27 10:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Understand.  Let's adjust your plan to account for your busy schedule.  More practical options?"
+  },
+  {
+    "id": "39",
+    "ts": "2025-01-28 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling a bit stressed this week."
+  },
+  {
+    "id": "40",
+    "ts": "2025-01-28 14:15",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Stress can impact your BP and sleep.  Mindfulness exercises could help.  Any interest?"
+  },
+  {
+    "id": "41",
+    "ts": "2025-01-29 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Yes, I'm open to trying mindfulness."
+  },
+  {
+    "id": "42",
+    "ts": "2025-01-29 09:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "I'll send you some guided meditation resources."
+  },
+  {
+    "id": "43",
+    "ts": "2025-01-30 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed to squeeze in a workout today!"
+  },
+  {
+    "id": "44",
+    "ts": "2025-01-30 17:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Fantastic!  Small wins add up.  Keep it going!"
+  },
+  {
+    "id": "45",
+    "ts": "2025-01-31 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Checking in.  How are my overall metrics looking?"
+  },
+  {
+    "id": "46",
+    "ts": "2025-01-31 10:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Overall, adherence is around 60% this month.  We can work on improving this further."
+  },
+  {
+    "id": "47",
+    "ts": "2025-01-31 10:45",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good progress, Rohan.  We'll continue refining your plan next month."
+  },
+  {
+    "id": "48",
+    "ts": "2025-01-31 11:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "(Internally) Ruby, ensure Dr. Warren has ample time for Rohan's check-up next week."
+  },
+  {
+    "id": "49",
+    "ts": "2025-01-31 11:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "(Internally) Will do, Neel.  Booked him in for 30 mins next Tuesday."
+  },
+  {
+    "id": "50",
+    "ts": "2025-01-02 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question about the diet."
+  },
+  {
+    "id": "51",
+    "ts": "2025-01-02 14:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Ask away!"
+  },
+  {
+    "id": "52",
+    "ts": "2025-01-02 14:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Can I substitute this for that?"
+  },
+  {
+    "id": "53",
+    "ts": "2025-01-02 14:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let me check the nutritional values.  One moment."
+  },
+  {
+    "id": "54",
+    "ts": "2025-01-02 14:25",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Yes, that substitution works fine."
+  },
+  {
+    "id": "55",
+    "ts": "2025-01-07 19:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "How's my progress?"
+  },
+  {
+    "id": "56",
+    "ts": "2025-01-07 19:40",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Sleep score improving, BP needs monitoring."
+  },
+  {
+    "id": "57",
+    "ts": "2025-01-07 19:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Ok."
+  },
+  {
+    "id": "58",
+    "ts": "2025-01-11 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Busy day, skipped exercise."
+  },
+  {
+    "id": "59",
+    "ts": "2025-01-11 12:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Try a shorter session tomorrow?"
+  },
+  {
+    "id": "60",
+    "ts": "2025-01-11 12:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will try."
+  },
+  {
+    "id": "61",
+    "ts": "2025-01-14 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Blood pressure a bit high again."
+  },
+  {
+    "id": "62",
+    "ts": "2025-01-14 08:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's discuss at your next check-up."
+  },
+  {
+    "id": "63",
+    "ts": "2025-01-16 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Any updates on my ApoB levels?"
+  },
+  {
+    "id": "64",
+    "ts": "2025-01-16 15:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "We'll check them at your next full diagnostic in March."
+  },
+  {
+    "id": "65",
+    "ts": "2025-01-19 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed workout yesterday."
+  },
+  {
+    "id": "66",
+    "ts": "2025-01-19 10:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, let’s schedule a catch-up call."
+  },
+  {
+    "id": "67",
+    "ts": "2025-01-20 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Diet going well."
+  },
+  {
+    "id": "68",
+    "ts": "2025-01-20 17:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Excellent!"
+  },
+  {
+    "id": "69",
+    "ts": "2025-01-21 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today."
+  },
+  {
+    "id": "70",
+    "ts": "2025-01-21 09:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Great to hear!"
+  },
+  {
+    "id": "71",
+    "ts": "2025-01-26 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped a workout again."
+  },
+  {
+    "id": "72",
+    "ts": "2025-01-26 14:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's find a time to chat about your schedule."
+  },
+  {
+    "id": "73",
+    "ts": "2025-01-29 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Trying to be more consistent."
+  },
+  {
+    "id": "74",
+    "ts": "2025-01-29 18:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good effort, Rohan."
+  },
+  {
+    "id": "75",
+    "ts": "2025-01-31 20:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks for the support this month."
+  },
+  {
+    "id": "76",
+    "ts": "2025-01-31 20:05",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Our pleasure, Rohan.  See you next month!"
+  },
+  {
+    "id": "M77",
+    "ts": "2025-01-31 20:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Have a good one!"
+  },
+  {
+    "id": "M78",
+    "ts": "2025-01-31 20:12",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "You too, Rohan!"
+  },
+  {
+    "id": "M79",
+    "ts": "2025-01-22 14:35",
+    "sender": "Anika Sharma",
+    "role": "member",
+    "text": "Hi Neel, could you please help me with...?"
+  },
+  {
+    "id": "M80",
+    "ts": "2025-01-22 14:40",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Hi Anika, certainly!  Please tell me more."
+  },
+  {
+    "id": "M81",
+    "ts": "2025-01-22 15:05",
+    "sender": "Anika Sharma",
+    "role": "member",
+    "text": "Thanks Neel, it's sorted now!"
+  },
+  {
+    "id": "M82",
+    "ts": "2025-01-22 15:06",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Great, Anika! Let me know if anything else comes up."
+  },
+  {
+    "id": "M83",
+    "ts": "2025-01-15 11:20",
+    "sender": "Priya Desai",
+    "role": "member",
+    "text": "Quick question for the concierge team."
+  },
+  {
+    "id": "M84",
+    "ts": "2025-01-15 11:25",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Hi Priya, I'm available. What can I help you with?"
+  },
+  {
+    "id": 1,
+    "ts": "2025-02-01 07:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Good morning!  Busy week ahead, flying to London tonight."
+  },
+  {
+    "id": 2,
+    "ts": "2025-02-01 07:45",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Good morning, Rohan! Safe travels.  Let's adjust your exercise plan for this week."
+  },
+  {
+    "id": 3,
+    "ts": "2025-02-01 08:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Hi Rohan,  I've created a shorter, adaptable routine for your London trip.  Focus on bodyweight exercises."
+  },
+  {
+    "id": 4,
+    "ts": "2025-02-03 14:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "London gym is packed!  Hard to stick to the plan."
+  },
+  {
+    "id": 5,
+    "ts": "2025-02-03 14:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, Rohan.  Can you do 20 minutes of brisk walking instead?  Track your steps."
+  },
+  {
+    "id": 6,
+    "ts": "2025-02-05 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  BP is a bit high today."
+  },
+  {
+    "id": 7,
+    "ts": "2025-02-05 19:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick video call tomorrow to review your medication."
+  },
+  {
+    "id": 8,
+    "ts": "2025-02-06 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Video call done.  Increased dose of medication."
+  },
+  {
+    "id": 9,
+    "ts": "2025-02-06 10:05",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Great.  Monitor your BP closely.  [DECISION:id=DX-2025-02-06-BP-med] Increased BP medication."
+  },
+  {
+    "id": 10,
+    "ts": "2025-02-08 16:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completely missed my workout today.  Too tired."
+  },
+  {
+    "id": 11,
+    "ts": "2025-02-08 17:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan. Rest is important.  Let's try again tomorrow."
+  },
+  {
+    "id": 12,
+    "ts": "2025-02-10 08:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Hi Rohan, how are you finding the ApoB-lowering diet?"
+  },
+  {
+    "id": 13,
+    "ts": "2025-02-10 08:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Struggling with it while traveling.  Restaurant food is hard to manage."
+  },
+  {
+    "id": 14,
+    "ts": "2025-02-10 08:45",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I understand. Let's adjust your meal plan.  Focus on simple, portable options."
+  },
+  {
+    "id": 15,
+    "ts": "2025-02-12 11:00",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Rohan, your sleep score is lower this week. Any changes in your routine?"
+  },
+  {
+    "id": 16,
+    "ts": "2025-02-12 11:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jet lag, mostly."
+  },
+  {
+    "id": 17,
+    "ts": "2025-02-12 11:20",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Okay. Let's monitor this.  Try to maintain a consistent sleep schedule."
+  },
+  {
+    "id": 18,
+    "ts": "2025-02-14 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today.  Completed my workout!"
+  },
+  {
+    "id": 19,
+    "ts": "2025-02-14 18:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan!"
+  },
+  {
+    "id": 20,
+    "ts": "2025-02-15 09:30",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Rohan, reminder:  Full diagnostics scheduled for end of March."
+  },
+  {
+    "id": 21,
+    "ts": "2025-02-17 15:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Another busy week, heading to South Korea."
+  },
+  {
+    "id": 22,
+    "ts": "2025-02-17 16:00",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels, Rohan. We'll adjust your plan accordingly."
+  },
+  {
+    "id": 23,
+    "ts": "2025-02-19 10:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Difficult to maintain diet in Korea.  Lots of delicious but unhealthy options!"
+  },
+  {
+    "id": 24,
+    "ts": "2025-02-19 10:35",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I understand.  Focus on portion control and choosing healthier options when possible."
+  },
+  {
+    "id": 25,
+    "ts": "2025-02-21 17:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling exhausted."
+  },
+  {
+    "id": 26,
+    "ts": "2025-02-21 17:40",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Take some time to rest, Rohan.  We'll get you back on track."
+  },
+  {
+    "id": 27,
+    "ts": "2025-02-24 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout yesterday.  Feeling guilty."
+  },
+  {
+    "id": 28,
+    "ts": "2025-02-24 09:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Don't worry, Rohan.  It happens. Let's focus on getting back on track today."
+  },
+  {
+    "id": 29,
+    "ts": "2025-02-26 16:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is slightly elevated again."
+  },
+  {
+    "id": 30,
+    "ts": "2025-02-26 16:30",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick call to discuss this."
+  },
+  {
+    "id": 31,
+    "ts": "2025-02-27 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Call completed.  Adjusting medication again."
+  },
+  {
+    "id": 32,
+    "ts": "2025-02-27 10:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Okay, Rohan. Let's monitor closely. [DECISION:id=DX-2025-02-27-BP-med-adj] Adjusted BP medication (refs: 6, 29, 30)."
+  },
+  {
+    "id": 33,
+    "ts": "2025-02-28 18:45",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, how's Rohan's schedule looking next week?"
+  },
+  {
+    "id": 34,
+    "ts": "2025-02-28 18:50",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "He's traveling to Jakarta, Neel.  Busy week again."
+  },
+  {
+    "id": 35,
+    "ts": "2025-02-28 18:55",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Okay.  Let's proactively adjust his plan and keep Dr. Warren in the loop."
+  },
+  {
+    "id": 36,
+    "ts": "2025-02-02 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question about the new exercise plan."
+  },
+  {
+    "id": 37,
+    "ts": "2025-02-02 14:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Sure, Rohan. Ask away!"
+  },
+  {
+    "id": 38,
+    "ts": "2025-02-02 14:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Is it okay to skip a day if I'm extremely busy?"
+  },
+  {
+    "id": 39,
+    "ts": "2025-02-02 14:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's better to do something than nothing.  Even a short walk helps. But yes, if it's absolutely impossible, it's okay to skip."
+  },
+  {
+    "id": 40,
+    "ts": "2025-02-04 09:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My BP is slightly higher this morning."
+  },
+  {
+    "id": 41,
+    "ts": "2025-02-04 09:40",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's monitor it for a couple of days.  Increase water intake and reduce salt."
+  },
+  {
+    "id": 42,
+    "ts": "2025-02-07 17:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP still a little high.  Should I be concerned?"
+  },
+  {
+    "id": 43,
+    "ts": "2025-02-07 17:25",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a video call tomorrow to discuss this further."
+  },
+  {
+    "id": 44,
+    "ts": "2025-02-08 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Video call completed.  No changes to medication yet, but need to be more diligent."
+  },
+  {
+    "id": 45,
+    "ts": "2025-02-11 13:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling good today!  Workout and healthy meal."
+  },
+  {
+    "id": 46,
+    "ts": "2025-02-11 13:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent work, Rohan!"
+  },
+  {
+    "id": 47,
+    "ts": "2025-02-13 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout again today - too much work."
+  },
+  {
+    "id": 48,
+    "ts": "2025-02-13 19:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, Rohan.  Let's try to fit in at least a short session tomorrow."
+  },
+  {
+    "id": 49,
+    "ts": "2025-02-16 11:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, how is the modified meal plan working for you?"
+  },
+  {
+    "id": 50,
+    "ts": "2025-02-16 11:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "It's better, but still challenging with my travel schedule."
+  },
+  {
+    "id": 51,
+    "ts": "2025-02-16 11:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's fine-tune it further, considering your travel patterns."
+  },
+  {
+    "id": 52,
+    "ts": "2025-02-18 14:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling stressed.  BP slightly up."
+  },
+  {
+    "id": 53,
+    "ts": "2025-02-18 14:55",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Try relaxation techniques.  Let's discuss this tomorrow."
+  },
+  {
+    "id": 54,
+    "ts": "2025-02-19 09:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question about the new diet plan..."
+  },
+  {
+    "id": 55,
+    "ts": "2025-02-19 09:35",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Ask away, Rohan!"
+  },
+  {
+    "id": 56,
+    "ts": "2025-02-19 09:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Are there any quick and easy recipes I can try while traveling?"
+  },
+  {
+    "id": 57,
+    "ts": "2025-02-19 09:45",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Yes, I'll send you some links to quick and healthy recipes."
+  },
+  {
+    "id": 58,
+    "ts": "2025-02-20 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my workout today.  Feeling good!"
+  },
+  {
+    "id": 59,
+    "ts": "2025-02-20 16:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan! Keep up the good work."
+  },
+  {
+    "id": 60,
+    "ts": "2025-02-22 10:30",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Rohan, your sleep score has improved this week.  Good job!"
+  },
+  {
+    "id": 61,
+    "ts": "2025-02-22 10:35",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks!  Trying to maintain a regular sleep schedule."
+  },
+  {
+    "id": 62,
+    "ts": "2025-02-25 15:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Another busy week ahead, going to Jakarta."
+  },
+  {
+    "id": 63,
+    "ts": "2025-02-25 16:00",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels, Rohan! We'll adjust your plan as needed."
+  },
+  {
+    "id": 64,
+    "ts": "2025-02-27 11:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Having trouble sticking to the diet plan in Jakarta."
+  },
+  {
+    "id": 65,
+    "ts": "2025-02-27 11:25",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I understand.  Let's discuss alternative options when you're back."
+  },
+  {
+    "id": 66,
+    "ts": "2025-02-28 19:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling tired but accomplished."
+  },
+  {
+    "id": 67,
+    "ts": "2025-02-28 19:40",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan.  Let's review your progress this month."
+  },
+  {
+    "id": 68,
+    "ts": "2025-02-01 18:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Hi Team, any updates on my health plan for this month?"
+  },
+  {
+    "id": 69,
+    "ts": "2025-02-01 18:25",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Hi Rohan, we'll be sending you a tailored plan shortly considering your travel schedule."
+  },
+  {
+    "id": 70,
+    "ts": "2025-02-01 18:30",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "The plan includes adjustments for your London trip."
+  },
+  {
+    "id": 71,
+    "ts": "2025-02-02 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Received the plan, thanks.  Will try my best to follow it."
+  },
+  {
+    "id": 72,
+    "ts": "2025-02-02 15:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question about the suggested exercises."
+  },
+  {
+    "id": 73,
+    "ts": "2025-02-02 15:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Sure, Rohan, what's your question?"
+  },
+  {
+    "id": 74,
+    "ts": "2025-02-02 15:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Are there any alternatives if I can't access a gym?"
+  },
+  {
+    "id": 75,
+    "ts": "2025-02-02 15:45",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Yes, we've included bodyweight exercises you can do anywhere."
+  },
+  {
+    "id": 76,
+    "ts": "2025-02-04 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed to do some exercises yesterday, but quite tired."
+  },
+  {
+    "id": 77,
+    "ts": "2025-02-04 08:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "That's great, Rohan! Rest is important too."
+  },
+  {
+    "id": 78,
+    "ts": "2025-02-06 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling jet-lagged."
+  },
+  {
+    "id": 79,
+    "ts": "2025-02-06 14:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan! Take it easy today."
+  },
+  {
+    "id": 80,
+    "ts": "2025-02-09 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My blood pressure is a bit high this morning."
+  },
+  {
+    "id": 81,
+    "ts": "2025-02-09 10:40",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick video call to discuss this."
+  },
+  {
+    "id": 82,
+    "ts": "2025-02-10 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Video call done.  Increased medication dose."
+  },
+  {
+    "id": 83,
+    "ts": "2025-02-10 15:05",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Okay, Rohan. Monitor your BP closely. [DECISION:id=DX-2025-02-10-BP-med-inc] Increased BP medication dose (refs: 80, 81)."
+  },
+  {
+    "id": 84,
+    "ts": "2025-02-13 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout yesterday, completely forgot."
+  },
+  {
+    "id": 85,
+    "ts": "2025-02-13 12:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan.  Let's try to fit in a session later today."
+  },
+  {
+    "id": 86,
+    "ts": "2025-02-15 18:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Having trouble sticking to the diet plan this week."
+  },
+  {
+    "id": 87,
+    "ts": "2025-02-15 18:40",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's discuss this further tomorrow.  We can adjust the plan."
+  },
+  {
+    "id": 88,
+    "ts": "2025-02-17 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Going to South Korea again this week."
+  },
+  {
+    "id": 89,
+    "ts": "2025-02-17 09:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels, Rohan. We'll adjust your plan."
+  },
+  {
+    "id": 90,
+    "ts": "2025-02-20 14:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Completely exhausted."
+  },
+  {
+    "id": 91,
+    "ts": "2025-02-20 14:50",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Rest is important, Rohan. We'll get you back on track."
+  },
+  {
+    "id": 92,
+    "ts": "2025-02-22 11:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My BP is slightly elevated again."
+  },
+  {
+    "id": 93,
+    "ts": "2025-02-22 11:40",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's discuss this over a video call."
+  },
+  {
+    "id": 94,
+    "ts": "2025-02-23 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Video call done.  We decided to monitor for now."
+  },
+  {
+    "id": 95,
+    "ts": "2025-02-24 16:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my workout today.  Feeling good!"
+  },
+  {
+    "id": 96,
+    "ts": "2025-02-24 16:20",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan! Keep it up!"
+  },
+  {
+    "id": 97,
+    "ts": "2025-02-26 09:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout again, completely exhausted."
+  },
+  {
+    "id": 98,
+    "ts": "2025-02-26 09:55",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan.  Rest is important too. Let's focus on getting back on track tomorrow."
+  },
+  {
+    "id": 99,
+    "ts": "2025-02-28 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Overall, this month was a bit of a struggle, but I'm ready for March."
+  },
+  {
+    "id": 100,
+    "ts": "2025-02-28 17:05",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "We're here to support you, Rohan. Let's work on improving adherence next month."
+  },
+  {
+    "id": 101,
+    "ts": "2025-02-01 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My ApoB levels are still slightly high."
+  },
+  {
+    "id": 102,
+    "ts": "2025-02-01 10:15",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's review your diet and exercise plan."
+  },
+  {
+    "id": 103,
+    "ts": "2025-02-01 10:30",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "We can make some adjustments to the diet plan to help lower your ApoB."
+  },
+  {
+    "id": 104,
+    "ts": "2025-02-01 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Okay, let's do it.  I need practical, travel-friendly options."
+  },
+  {
+    "id": 105,
+    "ts": "2025-02-01 11:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I'll send you a revised plan focusing on easily manageable choices while traveling."
+  },
+  {
+    "id": 106,
+    "ts": "2025-02-03 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just received the revised plan, it looks good.  Thanks!"
+  },
+  {
+    "id": 107,
+    "ts": "2025-02-05 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I missed my workout yesterday.  I'll make up for it today."
+  },
+  {
+    "id": 108,
+    "ts": "2025-02-05 10:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great!  Remember consistency is key, even if it's just a short session."
+  },
+  {
+    "id": 109,
+    "ts": "2025-02-07 14:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My HRV is quite low today.  Any suggestions?"
+  },
+  {
+    "id": 110,
+    "ts": "2025-02-07 14:40",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Make sure you get enough sleep and manage stress levels.  Try some relaxation techniques."
+  },
+  {
+    "id": 111,
+    "ts": "2025-02-10 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I'm struggling to stick to the new diet.  It's hard while traveling."
+  },
+  {
+    "id": 112,
+    "ts": "2025-02-10 09:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's re-evaluate.  We can adjust the plan again, making it easier for you while traveling."
+  },
+  {
+    "id": 113,
+    "ts": "2025-02-12 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Revised diet plan received.  Will try my best to follow it this time!"
+  },
+  {
+    "id": 114,
+    "ts": "2025-02-14 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I’m feeling much better today!  Managed to stick to my workout and diet plan!"
+  },
+  {
+    "id": 115,
+    "ts": "2025-02-14 11:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "That's great to hear, Rohan! Keep up the good work."
+  },
+  {
+    "id": 116,
+    "ts": "2025-02-17 13:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Headed to South Korea.  Will be busy this week."
+  },
+  {
+    "id": 117,
+    "ts": "2025-02-17 13:40",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels, Rohan.  We'll adjust your plan if needed."
+  },
+  {
+    "id": 118,
+    "ts": "2025-02-20 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back from Korea.  Feeling exhausted."
+  },
+  {
+    "id": 119,
+    "ts": "2025-02-20 15:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!  Take it easy for the rest of the day."
+  },
+  {
+    "id": 120,
+    "ts": "2025-02-22 08:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My BP is a bit high this morning."
+  },
+  {
+    "id": 121,
+    "ts": "2025-02-22 08:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's monitor it for a few days.  Pay attention to your diet and stress levels."
+  },
+  {
+    "id": 122,
+    "ts": "2025-02-25 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is still slightly elevated."
+  },
+  {
+    "id": 123,
+    "ts": "2025-02-25 10:15",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick video call to discuss this."
+  },
+  {
+    "id": 124,
+    "ts": "2025-02-26 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Video call done.  No medication change, but need to be more disciplined."
+  },
+  {
+    "id": 125,
+    "ts": "2025-02-28 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Overall, it was a challenging month.  Looking forward to improving in March."
+  },
+  {
+    "id": 126,
+    "ts": "2025-02-28 19:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "We're here to support you, Rohan. Let's make a plan for better adherence next month."
+  },
+  {
+    "id": "M1",
+    "ts": "2025-03-01 08:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Morning!  Travel to London today, back 7th March.  How do I adjust my workout plan?"
+  },
+  {
+    "id": "M2",
+    "ts": "2025-03-01 08:22",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Hi Rohan!  I'll send you a modified plan for London, focusing on bodyweight exercises and hotel gym options."
+  },
+  {
+    "id": "M3",
+    "ts": "2025-03-01 08:25",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Travel safe! Let me know if you need anything while you're away."
+  },
+  {
+    "id": "M4",
+    "ts": "2025-03-03 10:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question - any recommendations for healthy eating in London?"
+  },
+  {
+    "id": "M5",
+    "ts": "2025-03-03 10:50",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Check out these healthy options near your hotel, Rohan. I've sent you a list with nutritional information."
+  },
+  {
+    "id": "M6",
+    "ts": "2025-03-05 19:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Struggling to stick to the workout plan.  Travel is tough!"
+  },
+  {
+    "id": "M7",
+    "ts": "2025-03-05 19:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's chat tomorrow. We can adapt it.  What specifically is challenging?"
+  },
+  {
+    "id": "M8",
+    "ts": "2025-03-06 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Time constraints are the main issue.  Too busy with meetings."
+  },
+  {
+    "id": "M9",
+    "ts": "2025-03-06 09:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay.  Let’s shorten the workouts and focus on high-intensity interval training (HIIT).  Shorter but effective!"
+  },
+  {
+    "id": "M10",
+    "ts": "2025-03-07 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling the jet lag!"
+  },
+  {
+    "id": "M11",
+    "ts": "2025-03-08 08:30",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!  How was the trip?"
+  },
+  {
+    "id": "M12",
+    "ts": "2025-03-08 08:35",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Productive, but tiring.  Need to catch up on my health goals."
+  },
+  {
+    "id": "M13",
+    "ts": "2025-03-08 09:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Good to have you back.  Let's schedule a check-up next week to review your BP and discuss your travel adjustments."
+  },
+  {
+    "id": "M14",
+    "ts": "2025-03-08 09:05",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Sounds good.  What's your availability?"
+  },
+  {
+    "id": "M15",
+    "ts": "2025-03-08 09:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Tuesday at 2 PM or Thursday at 10 AM work for you?"
+  },
+  {
+    "id": "M16",
+    "ts": "2025-03-08 09:12",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thursday at 10 AM works best."
+  },
+  {
+    "id": "M17",
+    "ts": "2025-03-08 09:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Appointment confirmed.  Reminder will be sent."
+  },
+  {
+    "id": "M18",
+    "ts": "2025-03-10 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a few days of exercise.  Feeling guilty!"
+  },
+  {
+    "id": "M19",
+    "ts": "2025-03-10 14:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It happens!  Don't beat yourself up.  Let's get you back on track.  How about a shorter session today?"
+  },
+  {
+    "id": "M20",
+    "ts": "2025-03-10 14:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Okay.  I'll try my best."
+  },
+  {
+    "id": "M21",
+    "ts": "2025-03-12 11:00",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Rohan, your sleep score has dipped slightly this week.  Anything I can help with?"
+  },
+  {
+    "id": "M22",
+    "ts": "2025-03-12 11:05",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jet lag, mainly.  It's improving."
+  },
+  {
+    "id": "M23",
+    "ts": "2025-03-12 11:10",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Okay.  Keep an eye on it.  Consistent sleep is crucial for BP management."
+  },
+  {
+    "id": "M24",
+    "ts": "2025-03-14 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just finished my check-up with Dr. Warren."
+  },
+  {
+    "id": "M25",
+    "ts": "2025-03-14 10:35",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "How did it go?"
+  },
+  {
+    "id": "M26",
+    "ts": "2025-03-14 10:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is still slightly elevated.  Adjusted medication."
+  },
+  {
+    "id": "M27",
+    "ts": "2025-03-14 10:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Correct.  New prescription sent to your pharmacy. Let's monitor it closely."
+  },
+  {
+    "id": "M28",
+    "ts": "2025-03-14 10:50",
+    "sender": "[DECISION:id=DX-2025-03-14-BP-med]",
+    "role": "system",
+    "text": "Adjusted BP medication; drivers:M14,M24,M26"
+  },
+  {
+    "id": "M29",
+    "ts": "2025-03-17 16:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Travelling to Jakarta tomorrow.  Back on 24th."
+  },
+  {
+    "id": "M30",
+    "ts": "2025-03-17 16:50",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay.  I'll adjust your exercise plan again, focusing on what you can easily do while traveling."
+  },
+  {
+    "id": "M31",
+    "ts": "2025-03-17 16:55",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I'll also send you some tips for healthy eating in Jakarta."
+  },
+  {
+    "id": "M32",
+    "ts": "2025-03-20 11:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Finding it hard to maintain my diet in Jakarta.  Too many tempting foods!"
+  },
+  {
+    "id": "M33",
+    "ts": "2025-03-20 11:25",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's refine your plan.  Focus on portion control and mindful eating.  Any specific challenges?"
+  },
+  {
+    "id": "M34",
+    "ts": "2025-03-21 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Lots of late-night meetings.  Making healthy choices difficult."
+  },
+  {
+    "id": "M35",
+    "ts": "2025-03-21 09:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Okay.  I'll suggest some quick, healthy snacks you can prepare in advance for those late nights."
+  },
+  {
+    "id": "M36",
+    "ts": "2025-03-24 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling exhausted."
+  },
+  {
+    "id": "M37",
+    "ts": "2025-03-25 09:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "How are you feeling after your trip to Jakarta?"
+  },
+  {
+    "id": "M38",
+    "ts": "2025-03-25 09:05",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Tired, but okay.  My BP seems a bit higher though."
+  },
+  {
+    "id": "M39",
+    "ts": "2025-03-25 09:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's monitor it closely.  Keep up with your medication and schedule a follow-up next week."
+  },
+  {
+    "id": "M40",
+    "ts": "2025-03-26 15:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My HRV is lower than usual.  Any suggestions?"
+  },
+  {
+    "id": "M41",
+    "ts": "2025-03-26 15:35",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Let's review your sleep and exercise patterns.  Stress levels also play a role.  Can you share details?"
+  },
+  {
+    "id": "M42",
+    "ts": "2025-03-27 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Stress levels are high due to work deadlines."
+  },
+  {
+    "id": "M43",
+    "ts": "2025-03-27 10:05",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "We can incorporate stress-reduction techniques into your plan.  Mindfulness exercises, for example."
+  },
+  {
+    "id": "M44",
+    "ts": "2025-03-28 14:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Full diagnostics next week, right?"
+  },
+  {
+    "id": "M45",
+    "ts": "2025-03-28 14:50",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Yes, end of March.  We'll schedule that for you."
+  },
+  {
+    "id": "M46",
+    "ts": "2025-03-29 09:30",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, update on Rohan's appointment for the full diagnostics?"
+  },
+  {
+    "id": "M47",
+    "ts": "2025-03-29 09:35",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Scheduled for Monday morning, Neel.  Confirmed with the lab."
+  },
+  {
+    "id": "M48",
+    "ts": "2025-03-30 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my diagnostics today.  Let me know the results."
+  },
+  {
+    "id": "M49",
+    "ts": "2025-03-31 09:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Results are in.  Will discuss them in our scheduled call tomorrow."
+  },
+  {
+    "id": "M50",
+    "ts": "2025-03-31 10:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, ensure we follow up with Rohan promptly on his results."
+  },
+  {
+    "id": "M51",
+    "ts": "2025-03-31 10:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Will do, Neel."
+  },
+  {
+    "id": "M52",
+    "ts": "2025-03-02 14:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just a quick question about the ApoB levels"
+  },
+  {
+    "id": "M53",
+    "ts": "2025-03-02 14:25",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's discuss that during our appointment on Thursday."
+  },
+  {
+    "id": "M54",
+    "ts": "2025-03-04 18:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed to squeeze in a workout today!"
+  },
+  {
+    "id": "M55",
+    "ts": "2025-03-04 18:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan! Keep it up!"
+  },
+  {
+    "id": "M56",
+    "ts": "2025-03-09 11:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better after a good night's sleep."
+  },
+  {
+    "id": "M57",
+    "ts": "2025-03-09 11:20",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Excellent! Consistent sleep is key."
+  },
+  {
+    "id": "M58",
+    "ts": "2025-03-11 17:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Had a busy day, missed my workout again."
+  },
+  {
+    "id": "M59",
+    "ts": "2025-03-11 17:45",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Don't worry, it happens.  Try a shorter session tomorrow."
+  },
+  {
+    "id": "M60",
+    "ts": "2025-03-13 08:50",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Planning a trip to the US next month.  Need to factor that into my plan."
+  },
+  {
+    "id": "M61",
+    "ts": "2025-03-13 09:00",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "We can help you adjust your plan accordingly.  Let's discuss it closer to the date."
+  },
+  {
+    "id": "M62",
+    "ts": "2025-03-15 15:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Blood pressure still a bit high.  Any suggestions?"
+  },
+  {
+    "id": "M63",
+    "ts": "2025-03-15 15:25",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's review your medication and lifestyle choices during our next appointment."
+  },
+  {
+    "id": "M64",
+    "ts": "2025-03-16 20:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Struggling with diet adherence.  Any tips for quick, healthy meals?"
+  },
+  {
+    "id": "M65",
+    "ts": "2025-03-16 20:05",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "I'll send you some easy-to-prepare recipes.  Focus on lean proteins and vegetables."
+  },
+  {
+    "id": "M66",
+    "ts": "2025-03-18 13:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed to stick to my exercise plan this week. Feeling good!"
+  },
+  {
+    "id": "M67",
+    "ts": "2025-03-18 13:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Fantastic work, Rohan! Keep up the momentum."
+  },
+  {
+    "id": "M68",
+    "ts": "2025-03-19 09:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Any updates on my ApoB levels from the diagnostics?"
+  },
+  {
+    "id": "M69",
+    "ts": "2025-03-19 09:50",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "We'll discuss that during tomorrow's call."
+  },
+  {
+    "id": "M70",
+    "ts": "2025-03-22 11:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just finished my workout. Feeling energized!"
+  },
+  {
+    "id": "M71",
+    "ts": "2025-03-22 11:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent, Rohan!  Remember consistency is key."
+  },
+  {
+    "id": "M72",
+    "ts": "2025-03-23 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped my workout today due to a meeting."
+  },
+  {
+    "id": "M73",
+    "ts": "2025-03-23 17:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No problem.  Try to fit in a shorter session tomorrow."
+  },
+  {
+    "id": "M74",
+    "ts": "2025-03-25 10:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Received my blood test results today"
+  },
+  {
+    "id": "M75",
+    "ts": "2025-03-25 10:20",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Good. We'll discuss them during our scheduled call."
+  },
+  {
+    "id": "M76",
+    "ts": "2025-03-27 14:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling much better after a relaxing weekend."
+  },
+  {
+    "id": "M77",
+    "ts": "2025-03-27 14:45",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "That's great to hear, Rohan!  Rest is important."
+  },
+  {
+    "id": "M78",
+    "ts": "2025-03-29 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My sleep score is improving!  Thanks for the tips."
+  },
+  {
+    "id": "M79",
+    "ts": "2025-03-29 19:05",
+    "sender": "Advik",
+    "role": "scientist",
+    "text": "Fantastic progress, Rohan!  Let's maintain this momentum."
+  },
+  {
+    "id": "M80",
+    "ts": "2025-03-30 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Need to discuss my upcoming trip to South Korea."
+  },
+  {
+    "id": "M81",
+    "ts": "2025-03-30 10:35",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "We can definitely help you plan for that.  When are you traveling?"
+  },
+  {
+    "id": "M82",
+    "ts": "2025-03-30 10:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Between April 5th and April 12th."
+  },
+  {
+    "id": "M83",
+    "ts": "2025-03-30 10:45",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Okay, great.  Could you please tell me your purpose of travel (business, leisure, etc.) and preferred travel style?"
+  },
+  {
+    "id": "M84",
+    "ts": "2025-03-30 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "It's a business trip. I'll need accommodations near the Samsung headquarters in Suwon, and I prefer comfortable, efficient travel arrangements."
+  },
+  {
+    "id": "M85",
+    "ts": "2025-03-30 11:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Perfect. I'll start looking into flight and hotel options now. I'll send you a detailed itinerary by the end of the day."
+  },
+  {
+    "id": "M86",
+    "ts": "2025-03-30 16:45",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Rohan, here's a draft itinerary for your trip to South Korea. Please review and let me know if you have any changes or requests."
+  },
+  {
+    "id": "M87",
+    "ts": "2025-03-30 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks, Ruby! Looks great.  Just one small change... could you try to get a hotel with a gym?"
+  },
+  {
+    "id": "M88",
+    "ts": "2025-03-30 17:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Certainly! I'll update the itinerary accordingly and send you a revised version shortly."
+  },
+  {
+    "id": "M89",
+    "ts": "2025-03-31 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Received the updated itinerary.  All looks perfect, thank you!"
+  },
+  {
+    "id": 1,
+    "ts": "2025-04-01 07:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Morning!  Busy week ahead, London trip starts Thurs.  How can I best fit in my exercises?"
+  },
+  {
+    "id": 2,
+    "ts": "2025-04-01 08:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Hi Rohan! Let's adjust your plan.  Focus on short, intense HIIT sessions while travelling."
+  },
+  {
+    "id": 3,
+    "ts": "2025-04-01 08:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Hi Rohan! Pack healthy snacks for London – nuts, fruits.  Prioritize protein at meals."
+  },
+  {
+    "id": 4,
+    "ts": "2025-04-01 17:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Got it.  Will try my best!"
+  },
+  {
+    "id": 5,
+    "ts": "2025-04-02 09:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your sleep score dropped last week.  Prioritize sleep this week."
+  },
+  {
+    "id": 6,
+    "ts": "2025-04-02 09:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will do.  Jet lag is killer."
+  },
+  {
+    "id": 7,
+    "ts": "2025-04-03 14:22",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed a 20-min HIIT today.  Feeling good!"
+  },
+  {
+    "id": 8,
+    "ts": "2025-04-03 14:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent! Keep it up!"
+  },
+  {
+    "id": 9,
+    "ts": "2025-04-04 10:15",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Hi Rohan, your London hotel has a gym.  I've confirmed!"
+  },
+  {
+    "id": 10,
+    "ts": "2025-04-04 10:18",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks Ruby!"
+  },
+  {
+    "id": 11,
+    "ts": "2025-04-05 18:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "London is hectic.  Missed workouts yesterday and today."
+  },
+  {
+    "id": 12,
+    "ts": "2025-04-05 19:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Don't worry, Rohan.  Prioritize sleep and healthy meals. Catch up when you're back."
+  },
+  {
+    "id": 13,
+    "ts": "2025-04-06 15:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Struggling to find time for exercise here in London."
+  },
+  {
+    "id": 14,
+    "ts": "2025-04-06 15:45",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Try 10-min bodyweight sessions in your hotel room."
+  },
+  {
+    "id": 15,
+    "ts": "2025-04-07 11:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling exhausted."
+  },
+  {
+    "id": 16,
+    "ts": "2025-04-07 11:30",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!  Anything we can help with?"
+  },
+  {
+    "id": 17,
+    "ts": "2025-04-07 19:55",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is slightly high today.  Feeling stressed."
+  },
+  {
+    "id": 18,
+    "ts": "2025-04-07 20:05",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Rohan, let's schedule a quick check-up tomorrow?"
+  },
+  {
+    "id": 19,
+    "ts": "2025-04-07 20:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Sounds good."
+  },
+  {
+    "id": 20,
+    "ts": "2025-04-08 10:00",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Check-up complete.  Slight BP adjustment to medication.  [DECISION:id=DX-2025-04-08-BP-adjustment]"
+  },
+  {
+    "id": 21,
+    "ts": "2025-04-08 10:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks, Dr. Warren."
+  },
+  {
+    "id": 22,
+    "ts": "2025-04-09 15:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today.  Back on track with exercise."
+  },
+  {
+    "id": 23,
+    "ts": "2025-04-09 15:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great to hear!  Let's plan your next two weeks."
+  },
+  {
+    "id": 24,
+    "ts": "2025-04-10 08:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, how's your diet going?"
+  },
+  {
+    "id": 25,
+    "ts": "2025-04-10 08:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Could be better.  Travel makes it hard."
+  },
+  {
+    "id": 26,
+    "ts": "2025-04-10 08:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's focus on simple, healthy choices this week."
+  },
+  {
+    "id": 27,
+    "ts": "2025-04-11 17:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout again today.  Too busy."
+  },
+  {
+    "id": 28,
+    "ts": "2025-04-11 17:50",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay.  Prioritize even short sessions when you can."
+  },
+  {
+    "id": 29,
+    "ts": "2025-04-12 09:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your HRV is low.  Stress management is key."
+  },
+  {
+    "id": 30,
+    "ts": "2025-04-12 09:40",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I know.  Will try mindfulness techniques."
+  },
+  {
+    "id": 31,
+    "ts": "2025-04-14 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jakarta trip next week.  Gym access at the hotel?"
+  },
+  {
+    "id": 32,
+    "ts": "2025-04-14 16:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Confirming gym access for your Jakarta hotel now, Rohan."
+  },
+  {
+    "id": 33,
+    "ts": "2025-04-15 07:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Good morning!  Any tips for healthy eating in Jakarta?"
+  },
+  {
+    "id": 34,
+    "ts": "2025-04-15 08:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Focus on fresh fruits and vegetables.  Look for local dishes with lean protein."
+  },
+  {
+    "id": 35,
+    "ts": "2025-04-16 19:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed a few workouts this week.  Diet is a challenge."
+  },
+  {
+    "id": 36,
+    "ts": "2025-04-16 19:40",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Keep up the good work, Rohan!  Small changes add up."
+  },
+  {
+    "id": 37,
+    "ts": "2025-04-17 10:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jakarta is exhausting.  Missed workouts yesterday and today."
+  },
+  {
+    "id": 38,
+    "ts": "2025-04-17 10:25",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan.  Prioritize rest and recovery."
+  },
+  {
+    "id": 39,
+    "ts": "2025-04-18 14:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling tired."
+  },
+  {
+    "id": 40,
+    "ts": "2025-04-18 14:55",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan! How was your trip?"
+  },
+  {
+    "id": 41,
+    "ts": "2025-04-18 20:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP a bit high again.  Stressful trip."
+  },
+  {
+    "id": 42,
+    "ts": "2025-04-18 20:30",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Let's schedule a follow-up."
+  },
+  {
+    "id": 43,
+    "ts": "2025-04-19 09:00",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Follow-up tomorrow morning?"
+  },
+  {
+    "id": 44,
+    "ts": "2025-04-19 09:05",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Yes."
+  },
+  {
+    "id": 45,
+    "ts": "2025-04-20 11:00",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Check-up complete.  Maintaining current medication.  [DECISION:id=DX-2025-04-20-BP-maintain]"
+  },
+  {
+    "id": 46,
+    "ts": "2025-04-20 11:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks, Dr. Warren."
+  },
+  {
+    "id": 47,
+    "ts": "2025-04-21 14:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Trying to get back on track with exercise and diet."
+  },
+  {
+    "id": 48,
+    "ts": "2025-04-21 14:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great!  Let's review your plan."
+  },
+  {
+    "id": 49,
+    "ts": "2025-04-22 08:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, any questions about your diet plan?"
+  },
+  {
+    "id": 50,
+    "ts": "2025-04-22 08:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "No, all good."
+  },
+  {
+    "id": 51,
+    "ts": "2025-04-23 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a few workouts this week."
+  },
+  {
+    "id": 52,
+    "ts": "2025-04-23 17:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Let's adjust your schedule to accommodate your busy week."
+  },
+  {
+    "id": 53,
+    "ts": "2025-04-24 09:45",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your sleep score improved this week.  Keep it up!"
+  },
+  {
+    "id": 54,
+    "ts": "2025-04-24 09:50",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks, Advik."
+  },
+  {
+    "id": 55,
+    "ts": "2025-04-25 16:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "South Korea trip next week.  Need to adjust my plan again."
+  },
+  {
+    "id": 56,
+    "ts": "2025-04-25 16:40",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Will confirm gym access at your Seoul hotel."
+  },
+  {
+    "id": 57,
+    "ts": "2025-04-26 08:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, let's prepare you for your South Korea trip."
+  },
+  {
+    "id": 58,
+    "ts": "2025-04-26 08:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Okay."
+  },
+  {
+    "id": 59,
+    "ts": "2025-04-27 15:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Seoul is challenging for workouts."
+  },
+  {
+    "id": 60,
+    "ts": "2025-04-27 15:55",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Try short, high-intensity workouts in your hotel room or find a local gym."
+  },
+  {
+    "id": 61,
+    "ts": "2025-04-28 11:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed a few short workouts."
+  },
+  {
+    "id": 62,
+    "ts": "2025-04-28 11:30",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent!"
+  },
+  {
+    "id": 63,
+    "ts": "2025-04-29 18:50",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Tired but feeling good."
+  },
+  {
+    "id": 64,
+    "ts": "2025-04-29 19:00",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!"
+  },
+  {
+    "id": 65,
+    "ts": "2025-04-30 09:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is good today.  Feeling less stressed."
+  },
+  {
+    "id": 66,
+    "ts": "2025-04-30 09:20",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Great to hear, Rohan!"
+  },
+  {
+    "id": 67,
+    "ts": "2025-04-30 10:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, how's Rohan's schedule looking for May?  Dr. Warren needs to book his appointments."
+  },
+  {
+    "id": 68,
+    "ts": "2025-04-30 10:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "He's traveling again, Neel.  I'll need to coordinate."
+  },
+  {
+    "id": 69,
+    "ts": "2025-04-01 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Quick question - what's the best way to track my ApoB levels?"
+  },
+  {
+    "id": 70,
+    "ts": "2025-04-01 12:05",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "We'll do that at your next full diagnostic in June."
+  },
+  {
+    "id": 71,
+    "ts": "2025-04-01 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Dinner was a bit unhealthy.  How do I compensate?"
+  },
+  {
+    "id": 72,
+    "ts": "2025-04-01 19:10",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Focus on healthier choices for the rest of the day."
+  },
+  {
+    "id": 73,
+    "ts": "2025-04-02 18:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my evening workout.  Long day."
+  },
+  {
+    "id": 74,
+    "ts": "2025-04-02 18:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No worries, prioritize sleep tonight."
+  },
+  {
+    "id": 75,
+    "ts": "2025-04-03 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today.  Workout completed."
+  },
+  {
+    "id": 76,
+    "ts": "2025-04-03 10:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job!"
+  },
+  {
+    "id": 77,
+    "ts": "2025-04-04 14:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Slightly elevated BP this morning."
+  },
+  {
+    "id": 78,
+    "ts": "2025-04-04 14:40",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Monitor it closely.  Let's talk if it persists."
+  },
+  {
+    "id": 79,
+    "ts": "2025-04-05 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is still slightly high.  Stressful week."
+  },
+  {
+    "id": 80,
+    "ts": "2025-04-05 10:10",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Let's schedule a quick check-up."
+  },
+  {
+    "id": 81,
+    "ts": "2025-04-06 11:00",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Check-up complete.  Minor adjustments to medication.  [DECISION:id=DX-2025-04-06-BP-adjust-2] refs:[77, 79, 80]"
+  },
+  {
+    "id": 82,
+    "ts": "2025-04-06 11:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Thanks, Dr. Warren."
+  },
+  {
+    "id": 83,
+    "ts": "2025-04-07 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling much better after the check-up.  Back on track with workouts."
+  },
+  {
+    "id": 84,
+    "ts": "2025-04-07 15:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent, Rohan!"
+  },
+  {
+    "id": 85,
+    "ts": "2025-04-08 09:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout yesterday due to a late night."
+  },
+  {
+    "id": 86,
+    "ts": "2025-04-08 09:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "No worries, just try to fit one in today."
+  },
+  {
+    "id": 87,
+    "ts": "2025-04-09 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my workout.  Feeling good!"
+  },
+  {
+    "id": 88,
+    "ts": "2025-04-09 18:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great work!"
+  },
+  {
+    "id": 89,
+    "ts": "2025-04-10 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped breakfast this morning.  How do I compensate?"
+  },
+  {
+    "id": 90,
+    "ts": "2025-04-10 10:10",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Have a healthy lunch and dinner."
+  },
+  {
+    "id": 91,
+    "ts": "2025-04-11 16:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Busy day, missed my workout again."
+  },
+  {
+    "id": 92,
+    "ts": "2025-04-11 16:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Prioritize sleep and rest."
+  },
+  {
+    "id": 93,
+    "ts": "2025-04-12 09:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Rohan, your sleep score is down again.  Prioritize sleep!"
+  },
+  {
+    "id": 94,
+    "ts": "2025-04-12 09:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Will try."
+  },
+  {
+    "id": 95,
+    "ts": "2025-04-13 14:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed a short workout today.  Feeling better!"
+  },
+  {
+    "id": 96,
+    "ts": "2025-04-13 14:50",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent work!"
+  },
+  {
+    "id": 97,
+    "ts": "2025-04-14 10:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "My hs-CRP levels - any idea when I'll get those checked?"
+  },
+  {
+    "id": 98,
+    "ts": "2025-04-14 10:20",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "At your next full diagnostic in June."
+  },
+  {
+    "id": 99,
+    "ts": "2025-04-15 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a workout again today.  Too busy."
+  },
+  {
+    "id": 100,
+    "ts": "2025-04-15 18:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, let's focus on consistency next week."
+  },
+  {
+    "id": 101,
+    "ts": "2025-04-16 09:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed a workout today.  Feeling energized!"
+  },
+  {
+    "id": 102,
+    "ts": "2025-04-16 09:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan!"
+  },
+  {
+    "id": 103,
+    "ts": "2025-04-17 17:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Slightly elevated BP again.  Stressful day."
+  },
+  {
+    "id": 104,
+    "ts": "2025-04-17 17:55",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Let's monitor it closely.  Contact me if it persists."
+  },
+  {
+    "id": 105,
+    "ts": "2025-04-18 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is back to normal today.  Feeling better."
+  },
+  {
+    "id": 106,
+    "ts": "2025-04-18 10:05",
+    "sender": "Dr. Warren",
+    "role": "medical doctor",
+    "text": "Excellent, Rohan!"
+  },
+  {
+    "id": 107,
+    "ts": "2025-04-19 15:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout yesterday and today.  Too busy."
+  },
+  {
+    "id": 108,
+    "ts": "2025-04-19 15:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan.  Focus on consistency next week."
+  },
+  {
+    "id": 109,
+    "ts": "2025-04-20 08:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better today.  Workout completed!"
+  },
+  {
+    "id": 110,
+    "ts": "2025-04-20 08:50",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, keep it up!"
+  },
+  {
+    "id": 111,
+    "ts": "2025-04-21 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my evening workout.  Long day at work."
+  },
+  {
+    "id": 112,
+    "ts": "2025-04-21 19:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's alright, prioritize rest and recovery."
+  },
+  {
+    "id": 113,
+    "ts": "2025-04-22 10:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my workout today.  Feeling good!"
+  },
+  {
+    "id": 114,
+    "ts": "2025-04-22 10:35",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great work, Rohan!"
+  },
+  {
+    "id": 115,
+    "ts": "2025-04-23 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped my workout yesterday.  Feeling stressed."
+  },
+  {
+    "id": 116,
+    "ts": "2025-04-23 14:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Try a short session today to de-stress."
+  },
+  {
+    "id": 117,
+    "ts": "2025-04-24 17:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed a short workout.  Feeling a bit better."
+  },
+  {
+    "id": 118,
+    "ts": "2025-04-24 17:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Good job, Rohan!"
+  },
+  {
+    "id": 119,
+    "ts": "2025-04-25 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling good today.  Completed my workout!"
+  },
+  {
+    "id": 120,
+    "ts": "2025-04-25 10:05",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent work!"
+  },
+  {
+    "id": 121,
+    "ts": "2025-04-26 16:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout today.  Too busy with work."
+  },
+  {
+    "id": 122,
+    "ts": "2025-04-26 16:55",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, try to squeeze in a short session tomorrow."
+  },
+  {
+    "id": 123,
+    "ts": "2025-04-27 09:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed a short workout.  Feeling better."
+  },
+  {
+    "id": 124,
+    "ts": "2025-04-27 09:20",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great job, Rohan!"
+  },
+  {
+    "id": 125,
+    "ts": "2025-04-28 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout today.  Family dinner."
+  },
+  {
+    "id": 126,
+    "ts": "2025-04-28 18:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Family time is important too, Rohan.  Try to fit one in tomorrow."
+  },
+  {
+    "id": 127,
+    "ts": "2025-04-29 10:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Completed my workout today.  Feeling good!"
+  },
+  {
+    "id": 128,
+    "ts": "2025-04-29 10:50",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great work, Rohan!"
+  },
+  {
+    "id": 129,
+    "ts": "2025-04-30 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Busy day, missed my workout again.  Will try to catch up next week."
+  },
+  {
+    "id": 130,
+    "ts": "2025-04-30 15:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, Rohan.  Let's reassess your plan for May."
+  },
+  {
+    "id": 1,
+    "ts": "2025-05-01 07:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Good morning!  Busy week ahead.  Flying to London tomorrow."
+  },
+  {
+    "id": 2,
+    "ts": "2025-05-01 07:35",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Good morning, Rohan!  Let's adjust your exercise plan for the week. Anything specific you'd like to focus on in London?"
+  },
+  {
+    "id": 3,
+    "ts": "2025-05-01 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just short, effective workouts. Hotel gym access is uncertain."
+  },
+  {
+    "id": 4,
+    "ts": "2025-05-01 08:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Okay, I'll create a bodyweight-focused HIIT plan for you. Focus on maintaining intensity, not equipment."
+  },
+  {
+    "id": 5,
+    "ts": "2025-05-02 19:45",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "London hotel gym is tiny.  Modified today's workout. Managed 15 minutes."
+  },
+  {
+    "id": 6,
+    "ts": "2025-05-02 20:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "That's fine, Rohan.  Consistency is key, even if it's shorter.  How was your sleep?"
+  },
+  {
+    "id": 7,
+    "ts": "2025-05-02 20:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Terrible. Jet lag."
+  },
+  {
+    "id": 8,
+    "ts": "2025-05-03 08:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Your sleep score is significantly down. This will impact your HRV and BP."
+  },
+  {
+    "id": 9,
+    "ts": "2025-05-03 08:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "I know.  Any tips for improving it while travelling?"
+  },
+  {
+    "id": 10,
+    "ts": "2025-05-03 08:30",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Consistent sleep schedule, even on travel days.  Limit screen time before bed."
+  },
+  {
+    "id": 11,
+    "ts": "2025-05-05 14:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "London meetings done.  Flying to Jakarta tomorrow."
+  },
+  {
+    "id": 12,
+    "ts": "2025-05-05 14:30",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Okay, Rohan. Will update your itinerary and check for gym facilities in Jakarta."
+  },
+  {
+    "id": 13,
+    "ts": "2025-05-06 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jakarta hotel has a good gym!  Workout went well this morning."
+  },
+  {
+    "id": 14,
+    "ts": "2025-05-07 16:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP a bit high today.  Stressful day."
+  },
+  {
+    "id": 15,
+    "ts": "2025-05-07 16:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a quick call tomorrow to discuss.  In the meantime, take deep breaths."
+  },
+  {
+    "id": 16,
+    "ts": "2025-05-08 10:00",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Rohan, how are you feeling?  Let's review your BP medication."
+  },
+  {
+    "id": 17,
+    "ts": "2025-05-08 10:15",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Still a bit high.  Will monitor it closely. Busy week ahead."
+  },
+  {
+    "id": 18,
+    "ts": "2025-05-08 10:30",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "[DECISION:id=DX-2025-05-08-BP-meds] Adjusting BP medication dosage.  Please monitor BP closely and report any significant changes. refs:14,17"
+  },
+  {
+    "id": 19,
+    "ts": "2025-05-09 18:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "How's your diet been, Rohan?  Remember to focus on potassium-rich foods to help with BP."
+  },
+  {
+    "id": 20,
+    "ts": "2025-05-09 18:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Been pretty hectic, haven't been as diligent as I should be."
+  },
+  {
+    "id": 21,
+    "ts": "2025-05-09 18:15",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Let's simplify your meal plan for the next week.  Focus on easily accessible healthy options."
+  },
+  {
+    "id": 22,
+    "ts": "2025-05-10 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling exhausted."
+  },
+  {
+    "id": 23,
+    "ts": "2025-05-10 09:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!  Rest is crucial.  How about a relaxing weekend before we dive back into your plan?"
+  },
+  {
+    "id": 24,
+    "ts": "2025-05-12 15:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling better. Ready to get back on track."
+  },
+  {
+    "id": 25,
+    "ts": "2025-05-12 15:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Great!  Let's review your exercise plan for the coming two weeks. Incorporating some rest days."
+  },
+  {
+    "id": 26,
+    "ts": "2025-05-12 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Sounds good.  Anything else I should focus on?"
+  },
+  {
+    "id": 27,
+    "ts": "2025-05-12 16:10",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Remember to hydrate well, and prioritise sleep.  Here's that simplified meal plan."
+  },
+  {
+    "id": 28,
+    "ts": "2025-05-15 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a couple of workouts this week.  Work got crazy."
+  },
+  {
+    "id": 29,
+    "ts": "2025-05-15 11:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's okay, Rohan.  Let's adjust the schedule to fit your workload. We'll focus on shorter, more intense sessions."
+  },
+  {
+    "id": 30,
+    "ts": "2025-05-17 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP still a bit elevated.  Sticking to the diet though."
+  },
+  {
+    "id": 31,
+    "ts": "2025-05-17 19:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a check-up next week to review your medication and discuss lifestyle adjustments. refs:18,30"
+  },
+  {
+    "id": 32,
+    "ts": "2025-05-18 08:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Your sleep score is improving.  Keep up the good work!"
+  },
+  {
+    "id": 33,
+    "ts": "2025-05-19 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Check-up next week.  Anything I should prepare?"
+  },
+  {
+    "id": 34,
+    "ts": "2025-05-19 14:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Just bring your recent BP readings.  We'll discuss your medication and overall health."
+  },
+  {
+    "id": 35,
+    "ts": "2025-05-20 10:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, is Dr. Warren available for Rohan's check-up next week?  We need to ensure sufficient time for a thorough consultation."
+  },
+  {
+    "id": 36,
+    "ts": "2025-05-20 10:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Yes, Neel.  I've already scheduled it for Wednesday at 11:00 am.  I'll send a reminder to Rohan."
+  },
+  {
+    "id": 37,
+    "ts": "2025-05-20 10:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good.  Let's make sure his metrics (ApoB, hs-CRP, etc.) are reviewed as well.  His adherence needs to improve."
+  },
+  {
+    "id": 38,
+    "ts": "2025-05-21 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just finished a killer workout!"
+  },
+  {
+    "id": 39,
+    "ts": "2025-05-21 16:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Fantastic!  Keep up the momentum.  How's your sleep been?"
+  },
+  {
+    "id": 40,
+    "ts": "2025-05-21 16:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Much better.  Thanks for the advice."
+  },
+  {
+    "id": 41,
+    "ts": "2025-05-22 09:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed my workout yesterday.  Too much work."
+  },
+  {
+    "id": 42,
+    "ts": "2025-05-22 09:40",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Don't worry, it happens.  Just try to fit in a shorter session today."
+  },
+  {
+    "id": 43,
+    "ts": "2025-05-23 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Check-up with Dr. Warren went well.  Medication adjusted again."
+  },
+  {
+    "id": 44,
+    "ts": "2025-05-23 11:15",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "[DECISION:id=DX-2025-05-23-BP-meds-2] Minor adjustment to BP medication based on latest readings.  Continue monitoring BP and diet. refs:31,43"
+  },
+  {
+    "id": 45,
+    "ts": "2025-05-24 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling good after the check-up.  Back on track with workouts."
+  },
+  {
+    "id": 46,
+    "ts": "2025-05-24 17:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent! Keep it up, Rohan!"
+  },
+  {
+    "id": 47,
+    "ts": "2025-05-26 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped a workout again.  Travel plans next week."
+  },
+  {
+    "id": 48,
+    "ts": "2025-05-26 10:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Understandable.  Let's adjust your schedule.  Focus on mobility exercises during your travel."
+  },
+  {
+    "id": 49,
+    "ts": "2025-05-27 15:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, how are you managing your diet while traveling?"
+  },
+  {
+    "id": 50,
+    "ts": "2025-05-27 15:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Doing my best.  Airport food is challenging!"
+  },
+  {
+    "id": 51,
+    "ts": "2025-05-27 15:20",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Pack some healthy snacks for your travels to stay on track.  Here are some suggestions."
+  },
+  {
+    "id": 52,
+    "ts": "2025-05-28 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Off to South Korea!"
+  },
+  {
+    "id": 53,
+    "ts": "2025-05-28 08:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels, Rohan! We'll adjust your plan based on your itinerary."
+  },
+  {
+    "id": 54,
+    "ts": "2025-05-29 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Hotel gym is great in Seoul!  Workout was good."
+  },
+  {
+    "id": 55,
+    "ts": "2025-05-30 19:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Tired but happy.  BP is good."
+  },
+  {
+    "id": 56,
+    "ts": "2025-05-30 19:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back, Rohan!  Glad to hear your BP is good.  Let's review your plans for next week."
+  },
+  {
+    "id": 57,
+    "ts": "2025-05-31 08:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Ready for a fresh start next week.  Thanks team!"
+  },
+  {
+    "id": 58,
+    "ts": "2025-05-31 08:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Great to hear, Rohan.  We'll ensure you're well-supported.  Let's schedule a brief check-in next week to review progress."
+  },
+  {
+    "id": 59,
+    "ts": "2025-05-01 10:00",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Hi Rohan, here's your adjusted workout plan for the week, considering your travel to London."
+  },
+  {
+    "id": 60,
+    "ts": "2025-05-01 12:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Hi Rohan, here's a list of healthy snack options for your trip."
+  },
+  {
+    "id": 61,
+    "ts": "2025-05-04 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Managed a short workout in London, but jet lag is hitting hard."
+  },
+  {
+    "id": 62,
+    "ts": "2025-05-04 14:15",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Try to maintain a consistent sleep schedule, even while traveling. This impacts your HRV significantly."
+  },
+  {
+    "id": 63,
+    "ts": "2025-05-05 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Heading to Jakarta tomorrow.  How do I adjust my plan again?"
+  },
+  {
+    "id": 64,
+    "ts": "2025-05-05 18:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "I'll check for gym facilities at your hotel in Jakarta and adjust your plan accordingly."
+  },
+  {
+    "id": 65,
+    "ts": "2025-05-07 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Jakarta hotel has a great gym!  Workout was good this morning."
+  },
+  {
+    "id": 66,
+    "ts": "2025-05-07 13:30",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP slightly elevated today.  Stressful meetings."
+  },
+  {
+    "id": 67,
+    "ts": "2025-05-07 13:45",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's chat later today about this.  Try some relaxation techniques in the meantime."
+  },
+  {
+    "id": 68,
+    "ts": "2025-05-10 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore.  Feeling exhausted."
+  },
+  {
+    "id": 69,
+    "ts": "2025-05-10 10:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back! Rest is key.  We'll adjust your plan for a smoother transition."
+  },
+  {
+    "id": 70,
+    "ts": "2025-05-14 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a couple of workouts this week. Work overload."
+  },
+  {
+    "id": 71,
+    "ts": "2025-05-14 16:15",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It happens.  Let's adjust the schedule to shorter, more intense sessions."
+  },
+  {
+    "id": 72,
+    "ts": "2025-05-16 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP still a bit high.  Sticking to the diet, though."
+  },
+  {
+    "id": 73,
+    "ts": "2025-05-16 18:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a check-up to discuss this further."
+  },
+  {
+    "id": 74,
+    "ts": "2025-05-19 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Check-up next week.  Anything I should prepare?"
+  },
+  {
+    "id": 75,
+    "ts": "2025-05-19 12:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Just bring your recent BP readings. We'll discuss your medication and overall health."
+  },
+  {
+    "id": 76,
+    "ts": "2025-05-20 14:00",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, is Dr. Warren available for Rohan's checkup next week?  We need to ensure enough time for a thorough consultation."
+  },
+  {
+    "id": 77,
+    "ts": "2025-05-20 14:05",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Yes, Neel. I've scheduled it for Wednesday at 11:00 am.  I'll send Rohan a reminder."
+  },
+  {
+    "id": 78,
+    "ts": "2025-05-20 14:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Good. Let's make sure his metrics (ApoB, hs-CRP, etc.) are reviewed as well."
+  },
+  {
+    "id": 79,
+    "ts": "2025-05-22 17:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Just finished a great workout!"
+  },
+  {
+    "id": 80,
+    "ts": "2025-05-22 17:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Fantastic!  Keep up the momentum. How's your sleep been?"
+  },
+  {
+    "id": 81,
+    "ts": "2025-05-22 17:20",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Much better. Thanks for the advice."
+  },
+  {
+    "id": 82,
+    "ts": "2025-05-23 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Check-up with Dr. Warren went well.  Medication adjusted again."
+  },
+  {
+    "id": 83,
+    "ts": "2025-05-23 11:15",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "[DECISION:id=DX-2025-05-23-BP-meds-3] Minor adjustment to BP medication. Continue monitoring. refs:73,82"
+  },
+  {
+    "id": 84,
+    "ts": "2025-05-26 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Skipped a workout. Travel plans next week."
+  },
+  {
+    "id": 85,
+    "ts": "2025-05-26 09:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Understandable.  Focus on mobility exercises during travel."
+  },
+  {
+    "id": 86,
+    "ts": "2025-05-27 14:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Rohan, how are you managing your diet while traveling?"
+  },
+  {
+    "id": 87,
+    "ts": "2025-05-27 14:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Doing my best. Airport food is challenging!"
+  },
+  {
+    "id": 88,
+    "ts": "2025-05-27 14:20",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Pack healthy snacks. Here are some suggestions."
+  },
+  {
+    "id": 89,
+    "ts": "2025-05-28 07:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Off to South Korea!"
+  },
+  {
+    "id": 90,
+    "ts": "2025-05-28 07:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Safe travels! We'll adjust your plan."
+  },
+  {
+    "id": 91,
+    "ts": "2025-05-29 13:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Hotel gym is great in Seoul! Workout was good."
+  },
+  {
+    "id": 92,
+    "ts": "2025-05-30 18:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back in Singapore. Tired but happy. BP is good."
+  },
+  {
+    "id": 93,
+    "ts": "2025-05-30 18:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back! Glad to hear your BP is good. Let's review your plans for next week."
+  },
+  {
+    "id": 94,
+    "ts": "2025-05-31 07:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Ready for a fresh start next week. Thanks team!"
+  },
+  {
+    "id": 95,
+    "ts": "2025-05-31 07:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Great to hear! We'll support you. Let's schedule a check-in next week."
+  },
+  {
+    "id": 96,
+    "ts": "2025-05-01 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Any advice on maintaining fitness while travelling?"
+  },
+  {
+    "id": 97,
+    "ts": "2025-05-01 15:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Bodyweight exercises, short HIIT sessions.  Prioritize consistency, not intensity."
+  },
+  {
+    "id": 98,
+    "ts": "2025-05-02 11:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "Focus on easily accessible healthy foods.  Pack snacks!"
+  },
+  {
+    "id": 99,
+    "ts": "2025-05-03 16:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Sleep was terrible. Jet lag."
+  },
+  {
+    "id": 100,
+    "ts": "2025-05-03 16:10",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Maintain a consistent sleep schedule, even when traveling.  Limit screen time before bed."
+  },
+  {
+    "id": 101,
+    "ts": "2025-05-08 14:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "BP is a bit high.  Stressful day."
+  },
+  {
+    "id": 102,
+    "ts": "2025-05-08 14:10",
+    "sender": "Dr. Warren",
+    "role": "doctor",
+    "text": "Let's schedule a call to review your medication."
+  },
+  {
+    "id": 103,
+    "ts": "2025-05-11 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed some workouts this week.  Busy schedule."
+  },
+  {
+    "id": 104,
+    "ts": "2025-05-11 10:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "It's alright. Let's adjust the plan to fit your busy schedule."
+  },
+  {
+    "id": 105,
+    "ts": "2025-05-13 17:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "How's your diet been this week?"
+  },
+  {
+    "id": 106,
+    "ts": "2025-05-13 17:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Could be better.  Haven't been as diligent as I should be."
+  },
+  {
+    "id": 107,
+    "ts": "2025-05-14 10:00",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Your HRV is dipping.  Focus on stress management and sleep."
+  },
+  {
+    "id": 108,
+    "ts": "2025-05-15 12:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Trying to improve my sleep.  Any tips?"
+  },
+  {
+    "id": 109,
+    "ts": "2025-05-15 12:10",
+    "sender": "Advik",
+    "role": "performance scientist",
+    "text": "Consistent sleep schedule, relaxation techniques before bed."
+  },
+  {
+    "id": 110,
+    "ts": "2025-05-25 15:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Feeling good after the check-up.  Back on track with workouts."
+  },
+  {
+    "id": 111,
+    "ts": "2025-05-25 15:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "Excellent! Keep it up!"
+  },
+  {
+    "id": 112,
+    "ts": "2025-05-27 10:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Missed a workout. Travel plans again."
+  },
+  {
+    "id": 113,
+    "ts": "2025-05-27 10:10",
+    "sender": "Rachel",
+    "role": "physiotherapist",
+    "text": "OK.  Focus on mobility exercises while traveling."
+  },
+  {
+    "id": 114,
+    "ts": "2025-05-29 17:00",
+    "sender": "Carla",
+    "role": "nutritionist",
+    "text": "How was your diet while traveling?"
+  },
+  {
+    "id": 115,
+    "ts": "2025-05-29 17:10",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Challenging, but I tried my best."
+  },
+  {
+    "id": 116,
+    "ts": "2025-05-30 09:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Back from South Korea!  Feeling tired."
+  },
+  {
+    "id": 117,
+    "ts": "2025-05-30 09:10",
+    "sender": "Ruby",
+    "role": "concierge",
+    "text": "Welcome back!  Rest well.  We'll review your plan."
+  },
+  {
+    "id": 118,
+    "ts": "2025-05-31 11:00",
+    "sender": "Rohan Patel",
+    "role": "member",
+    "text": "Ready for a new week and a fresh start!"
+  },
+  {
+    "id": 119,
+    "ts": "2025-05-31 11:10",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Great to hear! We'll make sure you're well supported."
+  },
+  {
+    "id": 120,
+    "ts": "2025-05-31 11:15",
+    "sender": "Neel",
+    "role": "concierge lead",
+    "text": "Ruby, please schedule a brief check-in for Rohan next week to review his progress."
+  },
+  {
+    "id": "M250",
+    "ts": "2025-06-01 08:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning team. Back in Singapore. BP this morning was 135/88. Still a bit high."
+  },
+  {
+    "id": "M251",
+    "ts": "2025-06-01 08:20",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Thanks for logging that, Rohan. Expected after the long travel. Let's monitor it daily this week as you settle back in. Stay consistent with the medication."
+  },
+  {
+    "id": "M252",
+    "ts": "2025-06-01 09:30",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Welcome back, Rohan! How are the energy levels? Ready to ease back into a routine?"
+  },
+  {
+    "id": "M253",
+    "ts": "2025-06-01 11:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Energy is low. Still feeling the jet lag from the last trip. Something light to start would be good."
+  },
+  {
+    "id": "M254",
+    "ts": "2025-06-01 11:12",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Completely understand. Let's start with 20-min mobility and stretching sessions for the next two days. I'll send you a new 2-week plan tomorrow that balances recovery and re-building."
+  },
+  {
+    "id": "M255",
+    "ts": "2025-06-01 11:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sounds good, thanks Rachel."
+  },
+  {
+    "id": "M256",
+    "ts": "2025-06-02 09:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, a good way to help with both BP and jet lag is focusing on potassium-rich foods. Think spinach, avocados, and bananas. Maybe an avocado toast for breakfast?"
+  },
+  {
+    "id": "M257",
+    "ts": "2025-06-02 10:21",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Can do. I'll pick some up."
+  },
+  {
+    "id": "M258",
+    "ts": "2025-06-02 11:45",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Okay Rohan, here is the updated plan. It includes 3x strength sessions (30 mins) and 2x light cardio/mobility days. Let me know how it feels. [DECISION:id=EX-2025-06-02-recovery-plan] New 2-week exercise plan focused on post-travel recovery and strength. refs:['M253','M254']"
+  },
+  {
+    "id": "M259",
+    "ts": "2025-06-02 12:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Got it. Looks manageable."
+  },
+  {
+    "id": "M260",
+    "ts": "2025-06-03 08:22",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP today: 133/86. Sleep score 68. Woke up a few times."
+  },
+  {
+    "id": "M261",
+    "ts": "2025-06-03 08:45",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Thanks, Rohan. The fragmented sleep is impacting your HRV, which is down 10% from your baseline. Let's focus on a consistent wind-down routine tonight – no screens 30 mins before bed."
+  },
+  {
+    "id": "M262",
+    "ts": "2025-06-03 19:40",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Skipped the workout today. Long day at the office catching up."
+  },
+  {
+    "id": "M263",
+    "ts": "2025-06-03 19:55",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "No problem, Rohan. The catch-up post-travel is always tough. Let's aim for the mobility session tomorrow. Even 15 minutes helps."
+  },
+  {
+    "id": "M264",
+    "ts": "2025-06-04 14:10",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, just a reminder that your next full diagnostic panel is due at the end of this month. We can start looking at dates that work for you."
+  },
+  {
+    "id": "M265",
+    "ts": "2025-06-04 15:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Ruby. My calendar is a mess. Let me check."
+  },
+  {
+    "id": "M266",
+    "ts": "2025-06-05 08:18",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP 130/85. Slept a bit better. Managed the 20 min mobility session this morning."
+  },
+  {
+    "id": "M267",
+    "ts": "2025-06-05 08:25",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Great start to the day, Rohan! Well done."
+  },
+  {
+    "id": "M268",
+    "ts": "2025-06-05 08:30",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Good to see the BP trending down as you acclimate. Consistency is key."
+  },
+  {
+    "id": "M269",
+    "ts": "2025-06-06 13:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Just had a big client lunch. Definitely not on the plan, Carla. Will try to have a lighter dinner."
+  },
+  {
+    "id": "M270",
+    "ts": "2025-06-06 13:05",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Happens to the best of us! Enjoyed it, I hope? A simple salad with some grilled chicken or fish for dinner would be a perfect balance. And drink plenty of water."
+  },
+  {
+    "id": "M271",
+    "ts": "2025-06-06 18:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed the strength workout. Felt good to move properly again."
+  },
+  {
+    "id": "M272",
+    "ts": "2025-06-06 18:25",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Fantastic! That's the one that counts. Have a great weekend."
+  },
+  {
+    "id": "M273",
+    "ts": "2025-06-08 10:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Weekend was a bit of a write-off. Family commitments. No exercise and eating out."
+  },
+  {
+    "id": "M274",
+    "ts": "2025-06-08 11:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "That's okay, Rohan. Let's look at the week ahead. Your data from last week shows that even one workout and a few nights of good sleep brought your HRV up by Friday. We just need to find that rhythm again."
+  },
+  {
+    "id": "M275",
+    "ts": "2025-06-08 11:02",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Easy to say. Hard to execute."
+  },
+  {
+    "id": "M276",
+    "ts": "2025-06-08 11:05",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "I know. The goal isn't perfection, it's consistency. Let's just focus on hitting today's plan."
+  },
+  {
+    "id": "M277",
+    "ts": "2025-06-09 16:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Ruby, heads up. I have to fly to New York next week. From the 16th to the 21st."
+  },
+  {
+    "id": "M278",
+    "ts": "2025-06-09 16:35",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Thanks for letting me know, Rohan. I'll inform the team. We'll adjust the plan for your travel."
+  },
+  {
+    "id": "M279",
+    "ts": "2025-06-09 16:40",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "NYC trip noted. Do you know if your hotel will have a gym?"
+  },
+  {
+    "id": "M280",
+    "ts": "2025-06-09 16:55",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, it should have a basic one."
+  },
+  {
+    "id": "M281",
+    "ts": "2025-06-09 17:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Perfect. I'll create a simplified travel workout plan you can do with limited equipment."
+  },
+  {
+    "id": "M282",
+    "ts": "2025-06-09 17:05",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, for NYC, focus on simple choices when eating out: grilled proteins, salads (dressing on the side), and try to avoid the oversized portions. I can send a guide for healthy options near your hotel if you like."
+  },
+  {
+    "id": "M283",
+    "ts": "2025-06-09 17:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes please, that would be helpful."
+  },
+  {
+    "id": "M284",
+    "ts": "2025-06-09 17:30",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Okay team, we have a plan. [DECISION:id=PLAN-2025-06-09-nyc-travel] Adjusted health plan for NYC travel (June 16-21) including simplified workouts and nutrition guidance. refs:['M277','M281','M282']"
+  },
+  {
+    "id": "M285",
+    "ts": "2025-06-10 11:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Neel, just flagging Rohan's NYC trip. It complicates scheduling his end-of-month diagnostics. He'll be back on the 22nd, likely jet-lagged."
+  },
+  {
+    "id": "M286",
+    "ts": "2025-06-10 11:05",
+    "sender": "Neel",
+    "role": "Concierge Lead",
+    "text": "Thanks, Ruby. Let's aim for the 26th or 27th to give him a few days to recover. The blood markers will be more stable then. Dr. Warren will want a clean reading."
+  },
+  {
+    "id": "M287",
+    "ts": "2025-06-10 11:06",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Understood. I'll propose those dates to Rohan."
+  },
+  {
+    "id": "M288",
+    "ts": "2025-06-11 08:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP 131/84. Workout done."
+  },
+  {
+    "id": "M289",
+    "ts": "2025-06-11 08:20",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Consistency! Great work, Rohan."
+  },
+  {
+    "id": "M290",
+    "ts": "2025-06-12 14:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, following up on your diagnostics. Would Thursday, June 26th in the morning work for the blood draw at our partner clinic?"
+  },
+  {
+    "id": "M291",
+    "ts": "2025-06-12 16:21",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, the 26th is fine. Book it."
+  },
+  {
+    "id": "M292",
+    "ts": "2025-06-12 16:25",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Excellent. I've booked you in for 8:30 AM on June 26th. You'll receive a confirmation email with all the details, including fasting instructions. [DECISION:id=DX-2025-06-12-q2-booking] Scheduled Q2 full diagnostic panel for June 26th at 8:30 AM. refs:['M290','M291']"
+  },
+  {
+    "id": "M293",
+    "ts": "2025-06-13 22:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Late night in the office. Had to get takeout. Not the best choice."
+  },
+  {
+    "id": "M294",
+    "ts": "2025-06-13 22:30",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Don't worry about it, Rohan. One meal doesn't derail progress. Just get back on track tomorrow. Getting enough sleep is more important right now."
+  },
+  {
+    "id": "M295",
+    "ts": "2025-06-15 10:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Here's the travel workout plan for NYC, Rohan. It's bodyweight-focused with some options if you find dumbbells. The goal is two sessions while you're there. Have a safe flight!"
+  },
+  {
+    "id": "M296",
+    "ts": "2025-06-15 11:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Rachel. Will do my best."
+  },
+  {
+    "id": "M297",
+    "ts": "2025-06-16 20:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Landed in NY. Exhausted."
+  },
+  {
+    "id": "M298",
+    "ts": "2025-06-16 21:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Focus on hydration, Rohan. It's the best thing you can do for jet lag on day one."
+  },
+  {
+    "id": "M299",
+    "ts": "2025-06-17 09:00",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Rohan, please try to log your BP in the mornings in NY if you can. The time difference can affect your readings."
+  },
+  {
+    "id": "M300",
+    "ts": "2025-06-17 21:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Forgot the cuff at the hotel this morning. Back-to-back meetings. Will do it tomorrow. BP feels high."
+  },
+  {
+    "id": "M301",
+    "ts": "2025-06-18 08:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning. BP 138/90. Feeling the stress."
+  },
+  {
+    "id": "M302",
+    "ts": "2025-06-18 08:10",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Noted. This is likely situational due to travel, stress, and jet lag. Ensure you're taking your medication consistently. Try to find 5 minutes for deep breathing exercises today."
+  },
+  {
+    "id": "M303",
+    "ts": "2025-06-18 20:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Client dinner. A steakhouse. Did my best."
+  },
+  {
+    "id": "M304",
+    "ts": "2025-06-18 20:25",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "That's all we can ask for. Hope you managed to get some veggies in with the steak!"
+  },
+  {
+    "id": "M305",
+    "ts": "2025-06-19 07:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed to get a 20 min workout in at the hotel gym. Felt good."
+  },
+  {
+    "id": "M306",
+    "ts": "2025-06-19 07:45",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "YES! That's a huge win on a busy travel week, Rohan. Well done."
+  },
+  {
+    "id": "M307",
+    "ts": "2025-06-20 08:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP 134/88 this morning. A little better."
+  },
+  {
+    "id": "M308",
+    "ts": "2025-06-20 08:15",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Glad to see it. The workout likely helped. Safe travels home."
+  },
+  {
+    "id": "M309",
+    "ts": "2025-06-22 14:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Back in Singapore. Absolutely wiped out."
+  },
+  {
+    "id": "M310",
+    "ts": "2025-06-22 14:10",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Welcome back, Rohan. Take it easy today. Rest and hydration are your priorities."
+  },
+  {
+    "id": "M311",
+    "ts": "2025-06-23 09:15",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Morning Rohan. Your sleep data from the trip shows significant disruption, as expected. Your readiness score is low. The plan today should be active recovery only - a light walk, nothing more."
+  },
+  {
+    "id": "M312",
+    "ts": "2025-06-23 10:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "A walk sounds about all I can manage."
+  },
+  {
+    "id": "M313",
+    "ts": "2025-06-24 08:22",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP 136/89. Ugh."
+  },
+  {
+    "id": "M314",
+    "ts": "2025-06-24 08:30",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Post-travel rebound. Let's not be concerned just yet. Your diagnostic is on Thursday, that will give us the full picture of the impact of the last month's travel."
+  },
+  {
+    "id": "M315",
+    "ts": "2025-06-25 10:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Rohan, gentle reminder about your diagnostics tomorrow at 8:30 AM. Please remember to fast for at least 8 hours beforehand - water is fine."
+  },
+  {
+    "id": "M316",
+    "ts": "2025-06-25 10:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Got it, thanks Ruby."
+  },
+  {
+    "id": "M317",
+    "ts": "2025-06-25 18:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "For your last meal tonight before your fast, I'd suggest something balanced like baked salmon with quinoa and steamed broccoli. It will keep you full without being too heavy."
+  },
+  {
+    "id": "M318",
+    "ts": "2025-06-26 09:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Tests done."
+  },
+  {
+    "id": "M319",
+    "ts": "2025-06-26 09:32",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Great, thank you for confirming, Rohan! We should have the results back in a few days. Dr. Warren will reach out to schedule a review."
+  },
+  {
+    "id": "M320",
+    "ts": "2025-06-26 15:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Since the test is done, let's get you back on track with a light strength session this afternoon if you feel up to it. It will help with the lingering jet lag."
+  },
+  {
+    "id": "M321",
+    "ts": "2025-06-26 18:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "No energy today, Rachel. Going to have to pass."
+  },
+  {
+    "id": "M322",
+    "ts": "2025-06-26 18:50",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Listen to your body. Rest is productive too. Tomorrow is a new day."
+  },
+  {
+    "id": "M323",
+    "ts": "2025-06-27 11:20",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Neel, a heads up for Dr. Warren's capacity next week. Rohan's results are due back soon and he'll need a full 45-min review consult given the likely fluctuations in his lipid panel from all the travel."
+  },
+  {
+    "id": "M324",
+    "ts": "2025-06-27 11:25",
+    "sender": "Neel",
+    "role": "Concierge Lead",
+    "text": "Good call. Block two potential slots for him in Dr. Warren's calendar for the first week of July. Let's be proactive on this. We need a clear plan for him for Q3."
+  },
+  {
+    "id": "M325",
+    "ts": "2025-06-28 16:00",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Rohan, we have your initial results back from the lab. As anticipated, we're seeing a spike in your inflammatory markers (hs-CRP) and ApoB, likely due to the recent travel and disruptions."
+  },
+  {
+    "id": "M326",
+    "ts": "2025-06-28 16:01",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "This is not cause for alarm, but it is a clear signal that we need to be very focused on nutrition and consistent exercise in the coming weeks. I'd like to schedule a call next week to discuss the results in detail and map out a strategy."
+  },
+  {
+    "id": "M327",
+    "ts": "2025-06-28 17:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Figured as much. I've felt off. Let's schedule the call."
+  },
+  {
+    "id": "M328",
+    "ts": "2025-06-28 17:20",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Of course, Rohan. I'll coordinate with Dr. Warren and send you some available times for early next week."
+  },
+  {
+    "id": "M329",
+    "ts": "2025-06-29 12:30",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Rohan, reviewing your monthly data. We saw a direct correlation between your nights with <6 hours sleep and next-day elevated BP readings. The travel made this pattern very clear. Stabilizing your sleep schedule will be the highest impact change we can make."
+  },
+  {
+    "id": "M330",
+    "ts": "2025-06-29 13:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "I know. The data doesn't lie. It's just hard to control when I'm in different time zones."
+  },
+  {
+    "id": "M331",
+    "ts": "2025-06-29 13:05",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "We'll work on strategies for the next trip. For now, let's focus on a solid routine here in Singapore."
+  },
+  {
+    "id": "M332",
+    "ts": "2025-06-30 09:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Morning Rohan. Dr Warren can speak with you on Wednesday July 2nd at 11am or Thursday July 3rd at 3pm. Do either of those times work for your results review?"
+  },
+  {
+    "id": "M333",
+    "ts": "2025-06-30 09:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Wednesday at 11am works."
+  },
+  {
+    "id": "M334",
+    "ts": "2025-06-30 09:48",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Confirmed. I've sent you a calendar invitation. [DECISION:id=CON-2025-06-30-q2-review] Scheduled Q2 diagnostic review consultation with Dr. Warren for July 2nd at 11 AM. refs:['M326','M332','M333']"
+  },
+  {
+    "id": "M335",
+    "ts": "2025-06-30 14:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, ahead of your call with Dr. Warren, I've put together a list of ApoB-lowering food swaps. Small changes like switching to olive oil, eating more soluble fiber like oats, and adding a handful of nuts daily. We can discuss implementing these after your review."
+  },
+  {
+    "id": "M336",
+    "ts": "2025-06-30 14:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Carla. Let's see what the doc says first."
+  },
+  {
+    "id": "M337",
+    "ts": "2025-06-30 17:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Ending the month on a positive note, Rohan? Let's aim for a workout today to build some momentum for July."
+  },
+  {
+    "id": "M338",
+    "ts": "2025-06-30 19:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Done. Full strength session. Feeling better."
+  },
+  {
+    "id": "M339",
+    "ts": "2025-06-30 19:15",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Excellent way to close out the month! That's the mindset. Ready for Q3."
+  },
+  {
+    "id": "M300",
+    "ts": "2025-07-01 08:15",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Good morning Rohan, friendly reminder about your consultation with Dr. Warren today at 10:00 AM Singapore time to discuss your recent diagnostic results. The meeting link has been sent to your calendar."
+  },
+  {
+    "id": "M301",
+    "ts": "2025-07-01 08:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Ruby, got it."
+  },
+  {
+    "id": "M302",
+    "ts": "2025-07-01 10:02",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Hi Rohan, thanks for joining. Let's dive into your results. The key flags are your ApoB at 115 mg/dL and hs-CRP at 2.8 mg/L. Both are higher than we'd like, indicating increased cardiovascular risk and inflammation."
+  },
+  {
+    "id": "M303",
+    "ts": "2025-07-01 10:04",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Right. Not surprising given the last few weeks of travel. What's the action plan?"
+  },
+  {
+    "id": "M304",
+    "ts": "2025-07-01 10:08",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "The primary goal is to lower both. We'll start with an aggressive lifestyle intervention. I want to see if we can move the needle significantly before considering medication like a statin. I'm looping in Carla and Rachel to build out a targeted nutrition and exercise plan."
+  },
+  {
+    "id": "M305",
+    "ts": "2025-07-01 10:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Okay, sounds good. Lifestyle changes are preferable. Let's do it."
+  },
+  {
+    "id": "M306",
+    "ts": "2025-07-01 10:12",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Excellent. We also need to keep a close eye on your BP. Please continue to take readings 3-4 times a week, especially in the morning."
+  },
+  {
+    "id": "M307",
+    "ts": "2025-07-01 10:15",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Hi Rohan, thanks Dr. Warren. I'll put together a plan focused on lowering ApoB. Think high fiber, healthy fats, and reduced saturated fat. I'll send it over by EOD. How does that sound?"
+  },
+  {
+    "id": "M308",
+    "ts": "2025-07-01 10:16",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sounds like a plan. Simple and practical please, Carla. I don't have time for complex recipes."
+  },
+  {
+    "id": "M309",
+    "ts": "2025-07-01 10:18",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "And from my side, Rohan, we'll focus on Zone 2 cardio to improve cardiovascular efficiency and some resistance training to help with metabolic health. I'll update your plan in the app."
+  },
+  {
+    "id": "M310",
+    "ts": "2025-07-01 10:19",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Ok thanks all. Let's see how this goes."
+  },
+  {
+    "id": "M311",
+    "ts": "2025-07-01 17:30",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, as promised, here is the initial nutrition guide focusing on ApoB reduction. Key takeaways: increase oats, barley, nuts, and seeds. Swap red meat for fatty fish like salmon twice a week. I've attached a simple meal structure PDF. [DECISION:id=NP-2025-07-01-apoB-diet] Initiated ApoB-lowering nutrition plan with focus on high fiber and unsaturated fats.; drivers:M302,M304,M307,M308"
+  },
+  {
+    "id": "M312",
+    "ts": "2025-07-01 18:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Got it. Looks manageable. The salmon part is easy."
+  },
+  {
+    "id": "M313",
+    "ts": "2025-07-02 08:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "@Advik, got my sleep data. Score 72. HRV 45. Still feeling the effects of last week I think."
+  },
+  {
+    "id": "M314",
+    "ts": "2025-07-02 09:25",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Thanks for sharing, Rohan. That's consistent with a recovery period. The key is consistency in your wind-down routine now. Let's aim for a sleep score of 75+ for the next 3 nights."
+  },
+  {
+    "id": "M315",
+    "ts": "2025-07-02 12:30",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Rohan, your updated 2-week exercise plan is now live in the app. It includes 3x cardio sessions (45 mins, Zone 2) and 2x full-body strength sessions. Let me know if you have any questions. [DECISION:id=EP-2025-07-02-cardio-focus] Updated exercise plan to include 3x Zone 2 cardio and 2x strength sessions to target cardiovascular health.; drivers:M304,M309"
+  },
+  {
+    "id": "M316",
+    "ts": "2025-07-02 13:01",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Rachel. Will try to get the first cardio session in tomorrow morning."
+  },
+  {
+    "id": "M317",
+    "ts": "2025-07-03 09:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning BP: 135/85. Higher than I'd like."
+  },
+  {
+    "id": "M318",
+    "ts": "2025-07-03 09:30",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Noted, Rohan. This is our baseline as we start the new plan. Let's not be discouraged. Consistency with the new diet and exercise will be key. Keep tracking."
+  },
+  {
+    "id": "M319",
+    "ts": "2025-07-03 20:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed the cardio session this morning. Client dinner tonight so the diet plan went out the window. Steak and wine."
+  },
+  {
+    "id": "M320",
+    "ts": "2025-07-03 21:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Thanks for the update, Rohan. That's perfectly fine, life happens! The goal isn't perfection. Just get back on track tomorrow. One meal won't derail us."
+  },
+  {
+    "id": "M321",
+    "ts": "2025-07-04 18:30",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Hey Rohan, just checking in. How are you feeling after yesterday's cardio? Ready for a strength session tomorrow?"
+  },
+  {
+    "id": "M322",
+    "ts": "2025-07-04 19:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Felt good. Tomorrow is tough, family commitments all day. Might have to skip it."
+  },
+  {
+    "id": "M323",
+    "ts": "2025-07-04 19:15",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "No problem. Family first. Could you fit in a 20-minute walk? Or we can just shift the workout to Sunday."
+  },
+  {
+    "id": "M324",
+    "ts": "2025-07-04 19:18",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Let's shift to Sunday."
+  },
+  {
+    "id": "M325",
+    "ts": "2025-07-05 11:40",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "@Carla following the diet today. Had oatmeal with berries and nuts for breakfast."
+  },
+  {
+    "id": "M326",
+    "ts": "2025-07-05 12:05",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Perfect! That's an ideal start to the day for our goals."
+  },
+  {
+    "id": "M327",
+    "ts": "2025-07-06 14:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Skipped the workout again today. Ended up being a lazy Sunday. Back on it tomorrow for sure."
+  },
+  {
+    "id": "M328",
+    "ts": "2025-07-06 14:30",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Okay Rohan, thanks for letting me know. Let's aim for 100% this week. How about we schedule the sessions in your calendar to block out the time?"
+  },
+  {
+    "id": "M329",
+    "ts": "2025-07-06 15:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, that might help."
+  },
+  {
+    "id": "M330",
+    "ts": "2025-07-07 08:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP this morning: 132/84."
+  },
+  {
+    "id": "M331",
+    "ts": "2025-07-07 09:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Slight improvement, which is a positive signal. Week 1 adherence: 1/3 workouts, ~50% diet. The data shows that even with partial adherence, we see a small positive trend. Imagine what 75% could do."
+  },
+  {
+    "id": "M332",
+    "ts": "2025-07-07 09:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Point taken, Advik. Will try harder."
+  },
+  {
+    "id": "M333",
+    "ts": "2025-07-08 13:15",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "@Neel, quick q. Dr. Warren's follow-up slots for Rohan are booking up fast. Should I reserve one for end of month now?"
+  },
+  {
+    "id": "M334",
+    "ts": "2025-07-08 13:20",
+    "sender": "Neel",
+    "role": "Concierge Lead",
+    "text": "Yes, good thinking Ruby. Given his risk factors and recent results, let's ensure he has dedicated time. Book a 15-min check-in for the last week of July."
+  },
+  {
+    "id": "M335",
+    "ts": "2025-07-08 18:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Team, heads up. I'll be in Jakarta from next Tuesday (15th) to Saturday (19th). Meetings all day."
+  },
+  {
+    "id": "M336",
+    "ts": "2025-07-08 18:05",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Thanks for the heads up, Rohan. I'll note it in your calendar. Can you share your hotel name? Rachel and Carla can provide some travel-specific tips."
+  },
+  {
+    "id": "M337",
+    "ts": "2025-07-08 18:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "The Ritz-Carlton."
+  },
+  {
+    "id": "M338",
+    "ts": "2025-07-09 09:30",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Hi Rohan, for your Jakarta trip, let's focus on damage control. Prioritize protein at each meal, stick to water, and look for vegetable dishes like Gado-gado (ask for light on the peanut sauce). Avoid the fried stuff where possible."
+  },
+  {
+    "id": "M339",
+    "ts": "2025-07-09 09:35",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "The Ritz has a great gym. I'll create a simple 30-min hotel workout plan for you - mostly bodyweight and dumbbells. The goal is just to keep moving, not to hit PBs. [DECISION:id=EP-2025-07-09-travel] Created simplified hotel workout plan for Jakarta trip to maintain activity levels.; drivers:M335,M337"
+  },
+  {
+    "id": "M340",
+    "ts": "2025-07-09 10:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Perfect, thanks both. That's very helpful."
+  },
+  {
+    "id": "M341",
+    "ts": "2025-07-09 19:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Got a strength session done today. Felt tough but good."
+  },
+  {
+    "id": "M342",
+    "ts": "2025-07-09 20:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Awesome work! Consistency is building."
+  },
+  {
+    "id": "M343",
+    "ts": "2025-07-10 08:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sleep score 68. Woke up thinking about work."
+  },
+  {
+    "id": "M344",
+    "ts": "2025-07-10 09:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "That's a common issue. Have you tried the 5-minute journaling I sent over? Writing down your thoughts before bed can help 'close the tabs' in your brain."
+  },
+  {
+    "id": "M345",
+    "ts": "2025-07-10 09:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "I haven't. I'll give it a try tonight."
+  },
+  {
+    "id": "M346",
+    "ts": "2025-07-11 21:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Long day. Missed my cardio session. Ordered in pizza with the family."
+  },
+  {
+    "id": "M347",
+    "ts": "2025-07-11 21:30",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Enjoy the pizza night! Don't stress about it. We can get back to the plan tomorrow."
+  },
+  {
+    "id": "M348",
+    "ts": "2025-07-12 11:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed a 30 min run."
+  },
+  {
+    "id": "M349",
+    "ts": "2025-07-12 11:15",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Great! That's a solid effort for a Saturday."
+  },
+  {
+    "id": "M350",
+    "ts": "2025-07-14 08:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP: 138/88. Feeling the stress of the upcoming trip."
+  },
+  {
+    "id": "M351",
+    "ts": "2025-07-14 09:00",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "This is an expected reaction to anticipatory stress. Focus on what you can control: hydration during the flight, trying to get a short walk in when you land, and deep breathing exercises if you feel overwhelmed. Let's see how the numbers look during and after the trip."
+  },
+  {
+    "id": "M352",
+    "ts": "2025-07-15 14:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, just a note to wish you safe travels to Jakarta! We're here if you need anything."
+  },
+  {
+    "id": "M353",
+    "ts": "2025-07-15 19:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Landed. Long flight. Heading straight to a dinner meeting."
+  },
+  {
+    "id": "M354",
+    "ts": "2025-07-16 22:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Haven't had a chance to work out. Food has been mostly from hotel catering. Not great."
+  },
+  {
+    "id": "M355",
+    "ts": "2025-07-16 22:15",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "That's the reality of business travel. Just do your best to find the simplest options – grilled chicken or fish, steamed vegetables. And keep your water intake high."
+  },
+  {
+    "id": "M356",
+    "ts": "2025-07-17 08:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Hey Rohan, reminder that your new 2-week exercise plan is due. Given you're travelling, shall I prepare a 'recovery' plan for when you get back, focusing on mobility and light cardio? [DECISION:id=EP-2025-07-17-recovery] Planned a post-travel recovery exercise plan focusing on mobility to ease back into routine.; drivers:M335,M354"
+  },
+  {
+    "id": "M357",
+    "ts": "2025-07-17 08:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes please. That sounds like a good idea. My body feels stiff from all the sitting."
+  },
+  {
+    "id": "M358",
+    "ts": "2025-07-18 23:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Final late-night meeting done. Flying home tomorrow. Exhausted. Zero exercise this trip."
+  },
+  {
+    "id": "M359",
+    "ts": "2025-07-19 08:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Completely understandable, Rohan. The goal upon your return will be to reset your circadian rhythm. Try to get some sunlight in the morning on Sunday and ease back into your routine. Don't force it."
+  },
+  {
+    "id": "M360",
+    "ts": "2025-07-20 12:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Home. Jet-lagged. Going to rest today."
+  },
+  {
+    "id": "M361",
+    "ts": "2025-07-21 08:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning team. BP 140/90. Feeling awful."
+  },
+  {
+    "id": "M362",
+    "ts": "2025-07-21 09:15",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Thanks for logging, Rohan. This is a clear physiological response to travel, stress, and lack of sleep. It's data. Now we can act on it. Focus on hydration, gentle movement, and getting back to Carla's nutrition plan today. The numbers should come down over the next 48-72 hours."
+  },
+  {
+    "id": "M363",
+    "ts": "2025-07-21 10:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Your recovery plan is now in the app. It starts with a 20-minute stretching and mobility routine. Very gentle. Give it a try when you feel up to it."
+  },
+  {
+    "id": "M364",
+    "ts": "2025-07-21 12:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Did the stretching. It helped a bit."
+  },
+  {
+    "id": "M365",
+    "ts": "2025-07-22 09:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP: 136/88. A little better. Sleep was poor."
+  },
+  {
+    "id": "M366",
+    "ts": "2025-07-22 09:15",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Expected after crossing time zones. Your HRV is probably low too. The key today is light exposure in the morning and avoiding heavy meals close to bedtime. Your body will sync up."
+  },
+  {
+    "id": "M367",
+    "ts": "2025-07-22 18:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, how about a simple salmon and roasted vegetable dinner tonight? It's easy to make and hits all the right notes for our plan."
+  },
+  {
+    "id": "M368",
+    "ts": "2025-07-22 18:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, can do."
+  },
+  {
+    "id": "M369",
+    "ts": "2025-07-23 19:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Felt good enough for a light jog today. 25 minutes."
+  },
+  {
+    "id": "M370",
+    "ts": "2025-07-23 19:10",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Excellent! That's a huge step. How did the body feel?"
+  },
+  {
+    "id": "M371",
+    "ts": "2025-07-23 19:12",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Tired, but good to be moving again."
+  },
+  {
+    "id": "M372",
+    "ts": "2025-07-24 08:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP: 133/85. Trending down. Sleep score 75. Finally a decent night."
+  },
+  {
+    "id": "M373",
+    "ts": "2025-07-24 09:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Great to see! The consistency is paying off. This is your body finding its rhythm again."
+  },
+  {
+    "id": "M374",
+    "ts": "2025-07-25 10:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Quick question for @Dr. Warren. I've been reading about supplements for ApoB. Anything I should consider? Like berberine or citrus bergamot?"
+  },
+  {
+    "id": "M375",
+    "ts": "2025-07-25 11:00",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Good question. There's some evidence for both, but it's not as robust as for lifestyle changes or statins. My preference is to establish a solid baseline with diet and exercise first for at least 3 months. If your numbers are still high in your next diagnostic panel, we can revisit supplements then."
+  },
+  {
+    "id": "M376",
+    "ts": "2025-07-25 11:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Understood. Lifestyle first."
+  },
+  {
+    "id": "M377",
+    "ts": "2025-07-26 15:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed the strength workout today. Felt like I've lost some progress, but glad I did it."
+  },
+  {
+    "id": "M378",
+    "ts": "2025-07-26 15:30",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "That's completely normal after a break and travel. The strength will come back faster than you think. Well done for getting it done."
+  },
+  {
+    "id": "M379",
+    "ts": "2025-07-28 08:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Weekly check-in. BP is hovering around 130/84. Sleep is back to normal. Diet was about 60% compliant. Exercise I hit 2 of 3 sessions since getting back."
+  },
+  {
+    "id": "M380",
+    "ts": "2025-07-28 09:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Thanks, Rohan. The data paints a clear picture: Travel causes a significant spike in BP and disruption to sleep. Recovery takes about 5-7 days of consistent effort. Your adherence post-travel has been strong and the metrics are responding well. This is a great pattern to recognize for future trips."
+  },
+  {
+    "id": "M381",
+    "ts": "2025-07-29 11:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, confirming your 15-minute check-in with Dr. Warren is scheduled for tomorrow at 4 PM. He'll just want to quickly review your post-travel recovery and BP readings."
+  },
+  {
+    "id": "M382",
+    "ts": "2025-07-29 11:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Confirmed."
+  },
+  {
+    "id": "M383",
+    "ts": "2025-07-30 16:01",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Hi Rohan. Good to see the BP numbers have settled back down after your trip. The spike was significant, but your recovery was swift once you were back in your home environment."
+  },
+  {
+    "id": "M384",
+    "ts": "2025-07-30 16:03",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, it's a clear cause and effect. The travel is a killer."
+  },
+  {
+    "id": "M385",
+    "ts": "2025-07-30 16:07",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "It is, but we're learning how your body reacts and building a better toolkit to manage it. The goal for August is to maintain this stability. Let's focus on hitting 75% adherence on the nutrition and exercise plan. No travel planned for August, correct?"
+  },
+  {
+    "id": "M386",
+    "ts": "2025-07-30 16:08",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Correct. August should be quiet. 75% is a good goal. [DECISION:id=GOAL-2025-08-01-adherence] Set a goal of 75% adherence for the August health plan to build on post-travel stability.; drivers:M380,M385"
+  },
+  {
+    "id": "M387",
+    "ts": "2025-07-31 10:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Hi Rohan, to kick off August, I've updated your exercise plan. We're re-introducing the 3x cardio and 2x strength sessions, but with a slightly lower intensity to start. We'll ramp it up in two weeks."
+  },
+  {
+    "id": "M388",
+    "ts": "2025-07-31 10:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sounds sensible. Thanks Rachel."
+  },
+  {
+    "id": "M389",
+    "ts": "2025-07-31 10:32",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "And from my side, let's continue with the same nutrition principles. I can send you a few new simple, high-fiber lunch ideas if you'd like some variety."
+  },
+  {
+    "id": "M390",
+    "ts": "2025-07-31 11:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes please, that would be great."
+  },
+  {
+    "id": "M391",
+    "ts": "2025-07-01 10:25",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Rohan, post-consult, I've updated your dashboard to track ApoB and hs-CRP as primary markers. All new data will be contextualized against our goal of lowering these."
+  },
+  {
+    "id": "M392",
+    "ts": "2025-07-01 10:28",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Good. Seeing the numbers helps."
+  },
+  {
+    "id": "M393",
+    "ts": "2025-07-03 22:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Actually @Carla, what's a better choice at a steakhouse? I go to them often for work."
+  },
+  {
+    "id": "M394",
+    "ts": "2025-07-03 22:45",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Great question. If steak is the only option, go for a leaner cut like a filet or sirloin over a ribeye. And load up on the vegetable sides - steamed or grilled, not creamed. A baked potato is also a better choice than fries."
+  },
+  {
+    "id": "M395",
+    "ts": "2025-07-04 09:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Helpful, thank you."
+  },
+  {
+    "id": "M396",
+    "ts": "2025-07-07 19:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed the cardio session this evening. Finally."
+  },
+  {
+    "id": "M397",
+    "ts": "2025-07-07 19:05",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Great way to start the week, Rohan! Well done."
+  },
+  {
+    "id": "M398",
+    "ts": "2025-07-08 20:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Dinner was salmon and quinoa. Sticking to the plan."
+  },
+  {
+    "id": "M399",
+    "ts": "2025-07-08 20:15",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Perfect choice!"
+  },
+  {
+    "id": "M400",
+    "ts": "2025-07-10 12:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Lunch meeting. Had a chicken salad. Skipped the creamy dressing."
+  },
+  {
+    "id": "M401",
+    "ts": "2025-07-10 12:05",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Excellent on-the-fly decision making, Rohan."
+  },
+  {
+    "id": "M402",
+    "ts": "2025-07-11 08:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP today: 134/86."
+  },
+  {
+    "id": "M403",
+    "ts": "2025-07-11 08:45",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "Noted. Holding steady. Keep up the good work this week."
+  },
+  {
+    "id": "M404",
+    "ts": "2025-07-13 18:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Got a strength workout in. Feel much better for it."
+  },
+  {
+    "id": "M405",
+    "ts": "2025-07-13 18:05",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Brilliant! That makes 2 workouts this week before you travel. That's a solid base."
+  },
+  {
+    "id": "M406",
+    "ts": "2025-07-14 20:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Packing for Jakarta. Trying that journaling thing @Advik."
+  },
+  {
+    "id": "M407",
+    "ts": "2025-07-14 20:45",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Good to hear. Let me know if it helps calm the pre-trip mind."
+  },
+  {
+    "id": "M408",
+    "ts": "2025-07-16 08:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Woke up early with the time difference. Might actually try for the hotel gym before my first meeting."
+  },
+  {
+    "id": "M409",
+    "ts": "2025-07-16 08:45",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Great idea! Even 20 minutes on the bike or treadmill will make a huge difference to your day."
+  },
+  {
+    "id": "M410",
+    "ts": "2025-07-16 10:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Didn't happen. Call came in from the US. Oh well."
+  },
+  {
+    "id": "M411",
+    "ts": "2025-07-16 10:45",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "That's frustrating. Don't worry about it, these things happen during travel. Just focus on the next opportunity."
+  },
+  {
+    "id": "M412",
+    "ts": "2025-07-17 12:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Lunch was Nasi Goreng. I know, I know..."
+  },
+  {
+    "id": "M413",
+    "ts": "2025-07-17 12:45",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Haha, when in Jakarta! Enjoy the local food, just try to balance it with a lighter dinner if possible."
+  },
+  {
+    "id": "M414",
+    "ts": "2025-07-18 10:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "I feel so sluggish. The lack of proper food and exercise is really noticeable."
+  },
+  {
+    "id": "M415",
+    "ts": "2025-07-18 10:15",
+    "sender": "Dr. Warren",
+    "role": "Doctor",
+    "text": "This is a valuable insight, Rohan. Your body is now more attuned to feeling good, so you notice more acutely when the inputs aren't right. Use this as motivation for when you return."
+  },
+  {
+    "id": "M416",
+    "ts": "2025-07-22 21:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Felt too tired to cook. Had a simple bowl of oats and berries for dinner. Is that okay?"
+  },
+  {
+    "id": "M417",
+    "ts": "2025-07-22 21:15",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "That's absolutely fine. It's easy to digest and fits the plan perfectly. Sometimes simple is best, especially during recovery."
+  },
+  {
+    "id": "M418",
+    "ts": "2025-07-25 18:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Long week. Looking forward to the weekend to just rest and reset."
+  },
+  {
+    "id": "M419",
+    "ts": "2025-07-25 19:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hope you have a restful weekend, Rohan. You've earned it after that trip."
+  },
+  {
+    "id": "M420",
+    "ts": "2025-07-27 13:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Did a long walk with the family today. Felt great."
+  },
+  {
+    "id": "M421",
+    "ts": "2025-07-27 13:15",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Fantastic! That's a perfect form of active recovery."
+  },
+  {
+    "id": "M422",
+    "ts": "2025-07-31 12:00",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Rohan, here are three lunch ideas as promised: 1. Quinoa bowl with chickpeas and roasted veggies. 2. Large lentil soup. 3. Salmon salad with a lemon-tahini dressing. All are quick to prep."
+  },
+  {
+    "id": "M423",
+    "ts": "2025-07-31 12:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Excellent, thank you. The quinoa bowl sounds good for tomorrow."
+  },
+  {
+    "id": "M201",
+    "ts": "2025-08-01 08:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning team. August. New month, new start. Let's try for that 75% adherence target."
+  },
+  {
+    "id": "M202",
+    "ts": "2025-08-01 08:17",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "That's the spirit, Rohan! We're here to support you all the way. Let's make it a great month."
+  },
+  {
+    "id": "M203",
+    "ts": "2025-08-01 08:18",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Love the energy! Your Zone 2 cardio is scheduled for today. Remember, steady pace, keep that heart rate consistent."
+  },
+  {
+    "id": "M204",
+    "ts": "2025-08-01 19:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Workout done. Felt good. A bit slower than last time but got through it."
+  },
+  {
+    "id": "M205",
+    "ts": "2025-08-01 19:35",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Consistency over intensity right now. Great job ticking the box!"
+  },
+  {
+    "id": "M206",
+    "ts": "2025-08-02 12:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Carla, need a quick lunch idea. Stuck in back-to-back meetings at the office."
+  },
+  {
+    "id": "M207",
+    "ts": "2025-08-02 12:48",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Hey Rohan. The Grain bowl place near your office is a solid option. Go for quinoa base, grilled chicken or salmon, and load up on greens. Easy on the creamy dressings."
+  },
+  {
+    "id": "M208",
+    "ts": "2025-08-02 13:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Done. Good call."
+  },
+  {
+    "id": "M209",
+    "ts": "2025-08-03 09:12",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP this morning: 132/84. Still in that elevated range but not as high as Jakarta."
+  },
+  {
+    "id": "M210",
+    "ts": "2025-08-03 09:15",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "Thanks for sharing, Rohan. That's a reasonable reading post-travel recovery. The key is consistent lifestyle habits to see it trend down further. Keep up with the plan."
+  },
+  {
+    "id": "M211",
+    "ts": "2025-08-04 07:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Morning. Woke up feeling tired. Oura sleep score is only 68. HRV down."
+  },
+  {
+    "id": "M212",
+    "ts": "2025-08-04 07:40",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Morning Rohan, I see the data. Your REM sleep was quite fragmented. Looks like your body temp was slightly elevated. Did you eat late or have alcohol last night?"
+  },
+  {
+    "id": "M213",
+    "ts": "2025-08-04 07:42",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yeah, client dinner. Got home late and had a glass of wine. Knew it would cost me."
+  },
+  {
+    "id": "M214",
+    "ts": "2025-08-04 07:45",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "The data doesn't lie. It's a trade-off. Let's focus on getting back to the routine tonight. Maybe a 10-min meditation before bed to down-regulate. The app has a few guided ones."
+  },
+  {
+    "id": "M215",
+    "ts": "2025-08-04 20:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Missed the strength workout today. Meeting ran very late. Just exhausted."
+  },
+  {
+    "id": "M216",
+    "ts": "2025-08-04 20:12",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "No problem, Rohan. Happens to the best of us. Don't stress it. Can you squeeze in a 20 min walk before bed? Just to move a little."
+  },
+  {
+    "id": "M217",
+    "ts": "2025-08-04 21:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Did the walk. Better than nothing I guess."
+  },
+  {
+    "id": "M218",
+    "ts": "2025-08-05 14:20",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, just checking in. Anything you need to set you up for success this week?"
+  },
+  {
+    "id": "M219",
+    "ts": "2025-08-05 14:22",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Actually, yes. I have to fly to London from the 15th to the 22nd. Need to figure out how to manage that."
+  },
+  {
+    "id": "M220",
+    "ts": "2025-08-05 14:25",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Of course. Can you share your hotel details? I'll check their gym facilities and find some healthy food options nearby for you."
+  },
+  {
+    "id": "M221",
+    "ts": "2025-08-05 15:01",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Staying at the Shangri-La at The Shard."
+  },
+  {
+    "id": "M222",
+    "ts": "2025-08-05 15:10",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Great, they have an excellent gym and pool. I'll pass this to Rachel and Carla so they can help adjust your plan for the trip."
+  },
+  {
+    "id": "M223",
+    "ts": "2025-08-06 18:03",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Rachel, the lunges in today's plan are tweaking my left knee a bit."
+  },
+  {
+    "id": "M224",
+    "ts": "2025-08-06 18:08",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Okay, let's substitute those. Try Bulgarian split squats instead, with a lower step. Focus on form over weight. Let me know how that feels."
+  },
+  {
+    "id": "M225",
+    "ts": "2025-08-06 18:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Much better. No pain."
+  },
+  {
+    "id": "M226",
+    "ts": "2025-08-07 11:30",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Hi Rohan. For your London trip, let's set a simple goal. Aim for a protein-rich breakfast every day. It will help with satiety and energy through your long meetings. Hotel buffet should make this easy - eggs, smoked salmon, Greek yogurt."
+  },
+  {
+    "id": "M227",
+    "ts": "2025-08-07 12:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Simple. I can do that. What about dinners?"
+  },
+  {
+    "id": "M228",
+    "ts": "2025-08-07 12:05",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Client dinners can be tough. The rule of thumb: fill half your plate with vegetables, a quarter with lean protein. And try to limit it to one alcoholic drink. It's about damage control, not perfection."
+  },
+  {
+    "id": "M229",
+    "ts": "2025-08-08 21:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Long week. Didn't get to the cardio today. Family dinner."
+  },
+  {
+    "id": "M230",
+    "ts": "2025-08-08 21:20",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Family time is important too. Enjoy your weekend, and we can catch up on Monday. Maybe a long walk with the family on Sunday?"
+  },
+  {
+    "id": "M231",
+    "ts": "2025-08-09 10:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP today: 134/85. Creeping up a little."
+  },
+  {
+    "id": "M232",
+    "ts": "2025-08-09 10:50",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Noted Rohan. Your data shows adherence at 3/5 for workouts and about 60% for nutrition logging this week. The missed sessions and diet variations will reflect in the BP readings. It's all connected."
+  },
+  {
+    "id": "M233",
+    "ts": "2025-08-09 10:52",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yeah, I know. It's been a tough week at work. Hard to stay on track."
+  },
+  {
+    "id": "M234",
+    "ts": "2025-08-10 16:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Managed a long walk at East Coast Park. Felt good to get out."
+  },
+  {
+    "id": "M235",
+    "ts": "2025-08-10 16:22",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Excellent! That's a great way to end the week."
+  },
+  {
+    "id": "M236",
+    "ts": "2025-08-11 09:00",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Morning Rohan, I've compiled a list of healthy restaurants and cafes near your London hotel. Sending it to you now."
+  },
+  {
+    "id": "M237",
+    "ts": "2025-08-11 09:02",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Ruby, this is very helpful."
+  },
+  {
+    "id": "M238",
+    "ts": "2025-08-12 11:00",
+    "sender": "Neel",
+    "role": "Concierge Lead",
+    "text": "@Ruby Let's add a 15-min check-in call with Dr. Warren for Rohan for the week he gets back from the UK. His BP tends to spike with travel."
+  },
+  {
+    "id": "M239",
+    "ts": "2025-08-12 11:02",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Good idea, Neel. I'll check their schedules and propose some times. His travel adherence is a key challenge."
+  },
+  {
+    "id": "M240",
+    "ts": "2025-08-12 11:03",
+    "sender": "Neel",
+    "role": "Concierge Lead",
+    "text": "Exactly. Let's be proactive on this one. The data from the Jakarta trip was a clear flag."
+  },
+  {
+    "id": "M241",
+    "ts": "2025-08-13 14:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Rohan, here's the updated exercise plan for the next 2 weeks. It includes bodyweight-only options for your hotel room in London, focusing on mobility and HIIT to be time-efficient. [DECISION:id=EX-2025-08-13-travel-plan] New 2-week exercise plan with travel-specific bodyweight options.",
+    "refs": [
+      "M219",
+      "M222"
+    ]
+  },
+  {
+    "id": "M242",
+    "ts": "2025-08-13 14:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Looks good. Bodyweight is smart, I won't have much time."
+  },
+  {
+    "id": "M243",
+    "ts": "2025-08-14 08:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Tried the new HIIT routine. Brutal but quick. I like it."
+  },
+  {
+    "id": "M244",
+    "ts": "2025-08-14 08:22",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Perfect! That's the goal - maximum benefit in minimum time."
+  },
+  {
+    "id": "M245",
+    "ts": "2025-08-15 01:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "At the airport. Flight to LHR is delayed. Ugh."
+  },
+  {
+    "id": "M246",
+    "ts": "2025-08-15 01:35",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Travel days are tough. Try to stay hydrated with water and avoid sugary drinks or snacks at the airport. Grab a bag of nuts if you need something."
+  },
+  {
+    "id": "M247",
+    "ts": "2025-08-16 09:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Landed in London. Exhausted. Jet lag is hitting hard."
+  },
+  {
+    "id": "M248",
+    "ts": "2025-08-16 09:20",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Welcome to London. The key to beating jet lag: get some sunlight this morning, even 15 minutes. It helps reset your circadian rhythm. Avoid a long nap if you can."
+  },
+  {
+    "id": "M249",
+    "ts": "2025-08-16 19:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Skipped the workout. Straight into meetings and then an early client dinner. Had the fish and chips... couldn't resist."
+  },
+  {
+    "id": "M250",
+    "ts": "2025-08-16 19:35",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "It's an iconic dish! Enjoy the experience. Tomorrow is a new day. Remember the protein-focused breakfast goal."
+  },
+  {
+    "id": "M251",
+    "ts": "2025-08-17 08:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Breakfast was eggs and smoked salmon. On track."
+  },
+  {
+    "id": "M252",
+    "ts": "2025-08-17 08:31",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Perfect start!"
+  },
+  {
+    "id": "M253",
+    "ts": "2025-08-17 14:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP reading: 138/88. It's the travel stress."
+  },
+  {
+    "id": "M254",
+    "ts": "2025-08-17 14:05",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "Expected, Rohan. Hydration and sleep are your best tools to manage this right now. Don't add stress by worrying about the number. Just keep logging and stick to the simple parts of the plan where you can."
+  },
+  {
+    "id": "M255",
+    "ts": "2025-08-18 20:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Another crazy day. Just managed a 15 min bodyweight circuit in the room. Better than nothing."
+  },
+  {
+    "id": "M256",
+    "ts": "2025-08-18 20:05",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "That's a huge win on a busy travel day, Rohan! Well done."
+  },
+  {
+    "id": "M257",
+    "ts": "2025-08-19 12:30",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Hi Rohan, hope London is going well. Just a heads up, I've booked that follow-up with Dr. Warren for you on Aug 26th at 10am SGT to review your post-travel data."
+  },
+  {
+    "id": "M258",
+    "ts": "2025-08-19 12:32",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Ruby, calendar updated."
+  },
+  {
+    "id": "M259",
+    "ts": "2025-08-20 08:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sleep has been terrible this trip. Waking up at 3am every night."
+  },
+  {
+    "id": "M260",
+    "ts": "2025-08-20 08:15",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Classic jet lag symptom. Your cortisol rhythm is still on Singapore time. If you're wide awake, don't just lie there. Get up, read a book in low light for 20-30 mins, then try to go back to sleep. Avoid looking at your phone."
+  },
+  {
+    "id": "M261",
+    "ts": "2025-08-21 21:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Final dinner in London. The whole team went out for a curry. Not exactly on the plan."
+  },
+  {
+    "id": "M262",
+    "ts": "2025-08-21 21:50",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Team dinners are part of business life. I hope you enjoyed it! We'll get you back on track when you land."
+  },
+  {
+    "id": "M263",
+    "ts": "2025-08-22 18:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Back in Singapore. Feel completely wiped out."
+  },
+  {
+    "id": "M264",
+    "ts": "2025-08-22 18:35",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "Welcome back, Rohan. Take it easy tonight. Focus on unpacking and relaxing."
+  },
+  {
+    "id": "M265",
+    "ts": "2025-08-23 09:00",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP this morning: 140/90. Highest it's been in a while. Frustrating."
+  },
+  {
+    "id": "M266",
+    "ts": "2025-08-23 09:05",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "This is the rebound effect from travel we've discussed. It's temporary. Let's implement the post-travel recovery plan. Carla and Rachel will guide you. Don't worry, it will come down as you get back into your routine."
+  },
+  {
+    "id": "M267",
+    "ts": "2025-08-23 09:10",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Okay Rohan, for the next 3 days, let's focus on hydration and whole foods. Lots of water, lean protein, and vegetables. Avoid processed foods, excess salt, and alcohol completely. This will help flush your system. [DECISION:id=NU-2025-08-23-post-travel-reset] Initiated 3-day post-travel nutrition reset focused on hydration and whole foods.",
+    "refs": [
+      "M265",
+      "M266"
+    ]
+  },
+  {
+    "id": "M268",
+    "ts": "2025-08-23 09:12",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "And from my side, no intense workouts for 2 days. Just focus on movement. A 30-minute walk each day is perfect. Let your body recover."
+  },
+  {
+    "id": "M269",
+    "ts": "2025-08-23 09:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Okay, a full reset. I'll stick to it. I don't like seeing that BP number."
+  },
+  {
+    "id": "M270",
+    "ts": "2025-08-24 10:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Stuck to the reset plan yesterday. Walked for 30 mins. Drank tons of water."
+  },
+  {
+    "id": "M271",
+    "ts": "2025-08-24 10:32",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Great work, Rohan. Keep it up."
+  },
+  {
+    "id": "M272",
+    "ts": "2025-08-25 08:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "BP this morning: 135/86. Already coming down."
+  },
+  {
+    "id": "M273",
+    "ts": "2025-08-25 08:50",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "That's a quick response. Shows how much impact hydration and lower sodium has. Your HRV is also up 5ms this morning, another sign of recovery."
+  },
+  {
+    "id": "M274",
+    "ts": "2025-08-25 08:52",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "The data is motivating. Let's keep this going."
+  },
+  {
+    "id": "M275",
+    "ts": "2025-08-26 10:00",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "Hi Rohan, ready for our check-in?"
+  },
+  {
+    "id": "M276",
+    "ts": "2025-08-26 10:01",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Yes, ready."
+  },
+  {
+    "id": "M277",
+    "ts": "2025-08-26 10:18",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "Good chat. To summarize: the BP spikes during travel are a consistent pattern. While your post-trip recovery is getting faster, we need a better in-travel strategy. We'll have Advik analyze the data to see if there are specific triggers we can mitigate next time."
+  },
+  {
+    "id": "M278",
+    "ts": "2025-08-26 10:20",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Sounds good. I have a trip to Korea coming up in late September, so that would be helpful."
+  },
+  {
+    "id": "M279",
+    "ts": "2025-08-27 09:00",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Rohan, you're clear to resume your normal workout schedule today. Let's start with a strength session. Don't go for any personal bests, just focus on solid form."
+  },
+  {
+    "id": "M280",
+    "ts": "2025-08-27 19:45",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Workout done. Felt good to lift again. Took it easy as you said."
+  },
+  {
+    "id": "M281",
+    "ts": "2025-08-28 12:30",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Team, quick question. With all this focus on ApoB, should I be avoiding all fats? A colleague mentioned the keto diet."
+  },
+  {
+    "id": "M282",
+    "ts": "2025-08-28 12:35",
+    "sender": "Carla",
+    "role": "Nutritionist",
+    "text": "Great question. No, you shouldn't avoid all fats. The focus for lowering ApoB is on reducing saturated fats (red meat, butter, processed foods) and increasing unsaturated fats (avocado, nuts, olive oil, fatty fish)."
+  },
+  {
+    "id": "M283",
+    "ts": "2025-08-28 12:37",
+    "sender": "Dr. Warren",
+    "role": "Medical Doctor",
+    "text": "Carla is correct. A ketogenic diet is typically very high in saturated fat and not recommended for individuals with elevated ApoB or a family history of heart disease. The Mediterranean-style diet pattern Carla has designed for you is the most evidence-based approach."
+  },
+  {
+    "id": "M284",
+    "ts": "2025-08-28 12:40",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Understood. That's clear. No keto for me."
+  },
+  {
+    "id": "M285",
+    "ts": "2025-08-29 20:10",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Hit my Zone 2 cardio today. Felt strong."
+  },
+  {
+    "id": "M286",
+    "ts": "2025-08-29 20:12",
+    "sender": "Rachel",
+    "role": "Physiotherapist",
+    "text": "Great to hear! Finishing the week strong."
+  },
+  {
+    "id": "M287",
+    "ts": "2025-08-30 11:00",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "Rohan, sending you your end-of-week summary. You can see the clear dip in sleep and HRV during the UK trip, and the subsequent recovery. Overall adherence for August was 55% - slightly better than July but still below our 75% target."
+  },
+  {
+    "id": "M288",
+    "ts": "2025-08-30 11:05",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Thanks Advik. The travel week really killed the average. But the recovery was faster this time. That feels like a win."
+  },
+  {
+    "id": "M289",
+    "ts": "2025-08-30 11:07",
+    "sender": "Advik",
+    "role": "Performance Scientist",
+    "text": "It is. Faster recovery is a sign of improved resilience. That's a key metric we track."
+  },
+  {
+    "id": "M290",
+    "ts": "2025-08-31 10:15",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Final BP for the month: 131/83. Back to where I started. A rollercoaster of a month."
+  },
+  {
+    "id": "M291",
+    "ts": "2025-08-31 10:20",
+    "sender": "Ruby",
+    "role": "Concierge",
+    "text": "It certainly was, Rohan. But ending on a stable note after a long trip is progress. We're learning more about how to manage your travel schedule with every trip. Onwards to September!"
+  },
+  {
+    "id": "M292",
+    "ts": "2025-08-31 10:22",
+    "sender": "Rohan Patel",
+    "role": "Member",
+    "text": "Agreed. Let's see what September brings. The big quarterly diagnostic is at the end of next month too."
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "decision_id": "DX-2025-02-10-BP-med-inc",
+  "summary": "To increase the dose of the member's blood pressure medication.",
+  "trigger": "Context not provided in driver messages.",
+  "rationale": [
+    "Rationale not provided in driver messages."
+  ],
+  "owner": "Dr. Warren"
+}

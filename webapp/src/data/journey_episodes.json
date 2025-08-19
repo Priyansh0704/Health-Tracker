@@ -1,0 +1,693 @@
+[
+  {
+    "date_range": "January 1 - 5",
+    "title": "January Kick-off and Travel Plan Adjustments",
+    "trigger": "Elyx team requested this week's blood pressure readings.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Member is traveling, which may lead to missed workouts.",
+      "Blood pressure reading was slightly high at 130/85.",
+      "Member missed an evening walk."
+    ],
+    "outcome": "The team provided guidance for exercising while traveling and decided to maintain the current medication plan while monitoring blood pressure.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "January 6 - 12",
+    "title": "Post-Travel Readjustment & Sleep Monitoring",
+    "trigger": "Member reported feeling sluggish after returning from travel.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Feeling sluggish after travel",
+      "Eating out a lot while traveling",
+      "Sleep score dipped due to jet lag"
+    ],
+    "outcome": "New hotel workout routine and meal plan provided to get back on track; sleep score to be monitored.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Sleep Score"
+    ]
+  },
+  {
+    "date_range": "January 15 - 18",
+    "title": "Workout Rescheduling & Travel Preparation",
+    "trigger": "Member reported a missed workout.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Missed a scheduled workout."
+    ],
+    "outcome": "Workout was successfully rescheduled and the team will adjust the member's plan to be flexible for his upcoming travel to South Korea.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "January 22 - 25",
+    "title": "Addressing Elevated Blood Pressure and Workout Adherence",
+    "trigger": "My BP is still a little elevated. Any suggestions?",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Member reported elevated blood pressure.",
+      "Member missed two consecutive workout sessions."
+    ],
+    "outcome": "A doctor's check-up was scheduled to discuss blood pressure, and a phone call was planned with the physiotherapist to address workout scheduling.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "January 2 - 31",
+    "title": "Monthly Check-ins and Adherence Challenges",
+    "trigger": "Checking in. How are my overall metrics looking?",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Difficulty sticking to the diet plan due to a busy schedule.",
+      "Member feeling stressed.",
+      "Repeatedly skipping workouts (e.g., 'skipped exercise', 'Missed workout yesterday', 'Skipped a workout again').",
+      "Concern over high blood pressure readings.",
+      "Overall plan adherence was around 60% for the month."
+    ],
+    "outcome": "The team acknowledged the challenges, provided mindfulness resources for stress, adjusted the diet plan, and scheduled a doctor's check-up. The plan will be refined in the upcoming month.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence",
+      "Blood Pressure",
+      "Sleep",
+      "Sleep Score",
+      "ApoB levels"
+    ]
+  },
+  {
+    "date_range": "February 3 - 8",
+    "title": "Managing Health & Workouts While Traveling",
+    "trigger": "Member reported that his Blood Pressure was a bit high after traveling.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Crowded gym in London made it difficult to stick to the workout plan.",
+      "Member reported high Blood Pressure reading.",
+      "Missed a workout due to tiredness."
+    ],
+    "outcome": "Workout was temporarily adjusted to walking. A video call was scheduled with the doctor, resulting in an increased dose of blood pressure medication.",
+    "decisions_made": [
+      "DX-2025-02-06-BP-med"
+    ],
+    "kpis_impacted": [
+      "Adherence",
+      "Steps",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "February 10 - 15",
+    "title": "Managing Diet and Sleep While Traveling",
+    "trigger": "Nutritionist checking in on the ApoB-lowering diet.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Struggling with ApoB-lowering diet while traveling due to difficulty with restaurant food.",
+      "Lower sleep score due to jet lag."
+    ],
+    "outcome": "The team adjusted the meal plan for travel, advised on sleep, and will continue to monitor. Member reported feeling better and completing a workout.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "ApoB",
+      "Sleep Score",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "February 17 - 21",
+    "title": "Managing Health Plan During International Travel",
+    "trigger": "Member announced he was heading to South Korea for a busy week.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Difficult to maintain diet in Korea due to unhealthy options.",
+      "Feeling exhausted after returning from the trip."
+    ],
+    "outcome": "The team acknowledged the travel challenges, provided in-the-moment advice, and planned to help the member get back on track after he returned home.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Diet Adherence"
+    ]
+  },
+  {
+    "date_range": "February 1 - March 1",
+    "title": "Managing BP & Adherence Amidst Frequent Travel",
+    "trigger": "Member reported that his ApoB levels were still slightly high, prompting a review of his diet and exercise plan.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Recurring high Blood Pressure readings requiring multiple consultations and medication adjustments.",
+      "Difficulty adhering to diet and workout plans due to a heavy travel schedule (Jakarta, South Korea, London).",
+      "Frequently missed workouts due to exhaustion, work, and travel.",
+      "Member expressed feeling exhausted and that the month was a 'struggle'."
+    ],
+    "outcome": "BP medication was adjusted twice during the month. Diet and workout plans were repeatedly modified to accommodate travel. The month concluded with an agreement to focus on improving adherence in March.",
+    "decisions_made": [
+      "DX-2025-02-27-BP-med-adj",
+      "DX-2025-02-10-BP-med-inc"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence",
+      "ApoB",
+      "Sleep Score",
+      "HRV"
+    ]
+  },
+  {
+    "date_range": "March 3 - 8",
+    "title": "Adapting Health Plan During Travel & Scheduling Follow-up",
+    "trigger": "Member's request for recommendations for healthy eating while traveling in London.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Struggling to stick to the workout plan due to travel.",
+      "Time constraints due to being busy with meetings.",
+      "Experiencing jet lag after returning from trip."
+    ],
+    "outcome": "Workout plan was adapted to a shorter, high-intensity format to fit the member's schedule, and a follow-up check-up was scheduled to review BP and travel adjustments.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "March 10 - 14",
+    "title": "Check-in on Adherence, Sleep, and BP Medication Adjustment",
+    "trigger": "Member reported on his check-up with Dr. Warren, noting his BP was still elevated.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Missed a few days of exercise, leading to feelings of guilt.",
+      "Sleep score dipped slightly due to jet lag.",
+      "BP is still slightly elevated, requiring a medication adjustment."
+    ],
+    "outcome": "A new prescription for blood pressure was sent to the member's pharmacy, with a plan to monitor it closely.",
+    "decisions_made": [
+      "DX-2025-03-14-BP-med"
+    ],
+    "kpis_impacted": [
+      "Adherence",
+      "Sleep Score",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "March 17 - 21",
+    "title": "Adjusting Health Plan for Business Travel",
+    "trigger": "Member announced upcoming travel to Jakarta.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Finding it hard to maintain diet in Jakarta due to tempting foods.",
+      "Late-night meetings making healthy choices difficult."
+    ],
+    "outcome": "The health team adjusted the exercise and nutrition plans for travel, providing specific tips for portion control and healthy snacks for late nights.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence",
+      "Diet"
+    ]
+  },
+  {
+    "date_range": "March 24 - 30",
+    "title": "Post-Travel Health Check & Diagnostics Scheduling",
+    "trigger": "Member reports feeling exhausted and observes higher blood pressure after returning from a trip.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Member feeling exhausted post-travel",
+      "Concern over higher than usual Blood Pressure",
+      "Concern over lower than usual HRV",
+      "High stress levels due to work deadlines"
+    ],
+    "outcome": "Member completed scheduled full diagnostics and is awaiting results. The team provided interim advice for managing BP, HRV, and stress.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "HRV",
+      "Sleep",
+      "Stress"
+    ]
+  },
+  {
+    "date_range": "April 1 - 6",
+    "title": "Managing Health & Fitness During London Business Trip",
+    "trigger": "Rohan's question about how to fit in exercise during his upcoming London trip.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Member experiencing jet lag.",
+      "Missed workouts due to hectic schedule in London.",
+      "Struggling to find time for exercise while traveling."
+    ],
+    "outcome": "Team provided adaptive strategies for travel, including short HIIT sessions, bodyweight exercises, and nutrition tips, to help manage the member's routine.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence",
+      "Sleep Score"
+    ]
+  },
+  {
+    "date_range": "April 7 - 12",
+    "title": "Post-Travel Health Check & Lifestyle Readjustment",
+    "trigger": "Member reported high Blood Pressure and feeling stressed after returning from travel.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Exhaustion and stress after travel",
+      "High blood pressure reading",
+      "Difficulty maintaining diet while traveling",
+      "Missed workout due to being busy",
+      "Low HRV indicating stress"
+    ],
+    "outcome": "BP medication was adjusted after a medical check-up, and the team provided coaching on exercise, diet, and stress management.",
+    "decisions_made": [
+      "DX-2025-04-08-BP-adjustment"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence",
+      "HRV"
+    ]
+  },
+  {
+    "date_range": "April 14 - 20",
+    "title": "Managing Health During Jakarta Trip & Post-Travel Follow-Up",
+    "trigger": "Member inquiry about gym access for an upcoming trip to Jakarta.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Diet was a challenge during the trip.",
+      "Missed workouts due to exhaustion from travel.",
+      "Reported high Blood Pressure post-trip due to stress."
+    ],
+    "outcome": "After a follow-up check-up for high blood pressure post-trip, the decision was made to maintain the current medication.",
+    "decisions_made": [
+      "DX-2025-04-20-BP-maintain"
+    ],
+    "kpis_impacted": [
+      "Adherence",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "April 21 - 27",
+    "title": "Getting Back on Track & Adjusting for Travel",
+    "trigger": "Trying to get back on track with exercise and diet.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Missed a few workouts this week.",
+      "Seoul is challenging for workouts."
+    ],
+    "outcome": "The team provided adjustments for the member's busy schedule and travel to South Korea, including workout suggestions and hotel gym support.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Sleep Score"
+    ]
+  },
+  {
+    "date_range": "April 1 - May 3",
+    "title": "Blood Pressure Management and Adapting Workouts for Travel",
+    "trigger": "Member reported 'Slightly elevated BP this morning' due to a stressful week.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Inconsistent workout adherence due to a busy schedule, long work days, and travel.",
+      "Elevated Blood Pressure due to stress.",
+      "Poor sleep and jet lag while traveling.",
+      "Logistical challenges with workouts while traveling ('Hotel gym is tiny')."
+    ],
+    "outcome": "The member's blood pressure was stabilized after a check-up and a minor medication adjustment. The team provided a new bodyweight-focused workout plan and sleep advice to accommodate his travel schedule.",
+    "decisions_made": [
+      "DX-2025-04-06-BP-adjust-2"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "ApoB",
+      "Adherence",
+      "Sleep Score",
+      "hs-CRP",
+      "HRV"
+    ]
+  },
+  {
+    "date_range": "May 5 - 10",
+    "title": "Managing Blood Pressure Spike During International Travel",
+    "trigger": "Member reported his Blood Pressure was high due to a stressful day.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Member reported high BP due to a stressful day.",
+      "Hectic travel schedule made it difficult to be diligent with diet.",
+      "Member feeling exhausted after travel."
+    ],
+    "outcome": "BP medication dosage was adjusted, and the meal plan was simplified to support the member during a stressful travel period.",
+    "decisions_made": [
+      "DX-2025-05-08-BP-meds"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "May 12 - 18",
+    "title": "Getting Back on Track & Adjusting for Workload",
+    "trigger": "Member reported feeling better and ready to get back on track with his plan.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Missed a couple of workouts due to a busy work schedule.",
+      "Blood pressure (BP) is still a bit elevated."
+    ],
+    "outcome": "The exercise plan was adjusted for a busy workload, and a doctor's check-up was scheduled to review medication and lifestyle adjustments for the elevated blood pressure.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Adherence",
+      "Blood Pressure",
+      "Sleep Score"
+    ]
+  },
+  {
+    "date_range": "May 19 - 24",
+    "title": "Check-up Preparation & BP Medication Adjustment",
+    "trigger": "Member asked for guidance on preparing for his upcoming check-up.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Team noted member's adherence needs to improve.",
+      "Member missed a workout due to a heavy workload."
+    ],
+    "outcome": "The check-up was completed, leading to an adjustment in the member's blood pressure medication. The member reported feeling good and was back on track with workouts.",
+    "decisions_made": [
+      "DX-2025-05-23-BP-meds-2"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "ApoB",
+      "hs-CRP",
+      "Adherence",
+      "Sleep"
+    ]
+  },
+  {
+    "date_range": "May 1 - Jun 1",
+    "title": "Managing Health & Adherence During Frequent Travel",
+    "trigger": "Rohan's report of jet lag and elevated blood pressure during his travels, alongside missed workouts and dietary challenges.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Missed workouts due to travel plans and work overload.",
+      "Difficulty managing diet while traveling ('Airport food is challenging!').",
+      "Jet lag impacting sleep and causing exhaustion.",
+      "Elevated Blood Pressure (BP) due to stressful meetings and travel.",
+      "Low energy levels upon returning from trips."
+    ],
+    "outcome": "After returning from his latest trip with high BP and low energy, the team adjusted his plan to focus on recovery with light mobility sessions, with a new 2-week plan to follow.",
+    "decisions_made": [
+      "DX-2025-05-23-BP-meds-3"
+    ],
+    "kpis_impacted": [
+      "Adherence",
+      "Blood Pressure",
+      "Sleep",
+      "HRV",
+      "ApoB",
+      "hs-CRP",
+      "Energy levels"
+    ]
+  },
+  {
+    "date_range": "June 2 - 8",
+    "title": "Post-Travel Recovery & Adherence Challenges",
+    "trigger": "Team proactively provides a new nutrition and exercise plan to manage post-travel recovery and jet lag.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Skipped workout due to a long day at the office.",
+      "Difficulty adhering to plan over the weekend due to family commitments and eating out.",
+      "Member expressed frustration with consistency, stating 'Easy to say. Hard to execute.'",
+      "Scheduling difficulties for upcoming diagnostics due to a 'messy' calendar."
+    ],
+    "outcome": "Team provided a new recovery-focused exercise plan and daily support. The episode concludes with the team acknowledging the member's frustration with consistency and encouraging him to refocus on the plan for the current day.",
+    "decisions_made": [
+      "EX-2025-06-02-recovery-plan"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Sleep Score",
+      "HRV",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "June 9 - 15",
+    "title": "Planning for NYC Travel & Rescheduling Diagnostics",
+    "trigger": "Rohan Patel informed the team about his upcoming travel to New York from June 16th to 21st.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Upcoming travel to NYC complicated scheduling for end-of-month diagnostics.",
+      "Member had to get takeout and made a 'not the best choice' for a meal due to a late night at work."
+    ],
+    "outcome": "An adjusted health plan for NYC travel, including a simplified workout and nutrition guidance, was created and provided to the member. His diagnostics were successfully rescheduled for June 26th, after his return.",
+    "decisions_made": [
+      "PLAN-2025-06-09-nyc-travel",
+      "DX-2025-06-12-q2-booking"
+    ],
+    "kpis_impacted": [
+      "Blood Markers",
+      "Blood Pressure",
+      "Adherence",
+      "Sleep"
+    ]
+  },
+  {
+    "date_range": "June 16 - 22",
+    "title": "Managing Health and Blood Pressure During NY Business Trip",
+    "trigger": "Rohan's message announcing his arrival in New York and feeling exhausted.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Exhaustion and jet lag from travel to NY and back.",
+      "High stress from back-to-back meetings, with member reporting he was 'feeling the stress' and his BP 'feels high'.",
+      "Difficulty logging BP, forgot the cuff one morning.",
+      "Dietary challenges due to a client dinner at a steakhouse."
+    ],
+    "outcome": "The Elyx team provided guidance on managing jet lag, stress, and diet during the trip. Rohan successfully monitored his elevated blood pressure, which showed slight improvement, and managed to fit in a workout. The episode concludes with his return to Singapore, focusing on rest and recovery.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "June 23 - 29",
+    "title": "Post-Travel Recovery & Diagnostic Assessment",
+    "trigger": "Performance Scientist noted significant sleep disruption and a low readiness score after the member's trip.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Member expressed frustration with high blood pressure reading ('BP 136/89. Ugh.').",
+      "Member reported having no energy for a scheduled workout.",
+      "Member acknowledged feeling 'off' post-travel.",
+      "Member noted difficulty controlling sleep schedule when in different time zones."
+    ],
+    "outcome": "Initial diagnostic results showed elevated hs-CRP and ApoB. A consultation is being scheduled to review the full results and create a focused health strategy.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Sleep",
+      "Readiness Score",
+      "Blood Pressure",
+      "Lipid Panel",
+      "hs-CRP",
+      "ApoB"
+    ]
+  },
+  {
+    "date_range": "June 30 - July 6",
+    "title": "Q2 Diagnostic Review and Launch of New Lifestyle Plan",
+    "trigger": "Dr. Warren's review of diagnostic results, highlighting elevated ApoB (115 mg/dL) and hs-CRP (2.8 mg/L), indicating increased cardiovascular risk.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Member requested a 'Simple and practical' nutrition plan due to time constraints.",
+      "Difficulty adhering to diet plan due to a client dinner ('Steak and wine').",
+      "Skipped two planned workouts due to family commitments and lack of motivation ('lazy Sunday')."
+    ],
+    "outcome": "A new lifestyle intervention plan targeting ApoB and hs-CRP was created and delivered. The member has begun implementation but is facing workout adherence challenges, leading to the team's suggestion to schedule sessions directly in his calendar.",
+    "decisions_made": [
+      "CON-2025-06-30-q2-review",
+      "NP-2025-07-01-apoB-diet",
+      "EP-2025-07-02-cardio-focus"
+    ],
+    "kpis_impacted": [
+      "ApoB",
+      "hs-CRP",
+      "Blood Pressure",
+      "Adherence",
+      "Sleep Score",
+      "HRV"
+    ]
+  },
+  {
+    "date_range": "July 7 - 12",
+    "title": "Weekly Adherence Review & Travel Planning",
+    "trigger": "Rohan Patel informs the team about his upcoming business trip to Jakarta from July 15th to 19th.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Low adherence in the first week (1/3 workouts, ~50% diet).",
+      "Poor sleep due to work-related stress (Sleep score 68).",
+      "Missed a scheduled cardio session."
+    ],
+    "outcome": "The Elyx team created a simplified hotel workout and nutrition plan for the Jakarta trip. A 15-minute follow-up appointment with Dr. Warren was booked for the last week of July.",
+    "decisions_made": [
+      "EP-2025-07-09-travel"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence",
+      "Sleep Score"
+    ]
+  },
+  {
+    "date_range": "July 14 - 20",
+    "title": "Managing Health During Business Travel",
+    "trigger": "Member reported elevated blood pressure (138/88) and stress related to an upcoming business trip.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Pre-trip stress affecting blood pressure.",
+      "Inability to exercise during the trip ('Zero exercise this trip').",
+      "Poor food options from hotel catering.",
+      "Physical stiffness from sitting during travel.",
+      "Post-trip exhaustion and jet lag."
+    ],
+    "outcome": "Team provided guidance throughout the trip and a new 'recovery' exercise plan was created for the member's return to address post-travel stiffness and ease back into routine.",
+    "decisions_made": [
+      "EP-2025-07-17-recovery"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence"
+    ]
+  },
+  {
+    "date_range": "July 21 - 26",
+    "title": "Post-Travel Recovery & Supplement Inquiry",
+    "trigger": "Member reported high blood pressure (140/90) and feeling awful after travel.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Member feeling awful with high BP (140/90).",
+      "Poor sleep after travel.",
+      "Member felt a loss of progress in strength workout."
+    ],
+    "outcome": "Member's blood pressure trended down and sleep improved following the team's multi-faceted recovery plan. A decision was made to prioritize lifestyle changes before considering supplements for ApoB.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Sleep",
+      "HRV",
+      "Sleep Score",
+      "ApoB"
+    ]
+  },
+  {
+    "date_range": "July 1 - August 3",
+    "title": "Post-Travel Recovery and Setting August Goals",
+    "trigger": "Rohan's weekly check-in after returning from travel, noting his BP and adherence levels.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Travel caused a significant spike in Blood Pressure and sleep disruption.",
+      "Member expressed feeling 'sluggish' due to lack of proper food and exercise while traveling.",
+      "Frustration over missing a planned workout due to a work call during the trip."
+    ],
+    "outcome": "A new goal of 75% adherence was set for August, and the team provided updated, lower-intensity exercise and nutrition plans to support post-travel recovery and stability.",
+    "decisions_made": [
+      "GOAL-2025-08-01-adherence"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Sleep",
+      "Adherence",
+      "ApoB",
+      "hs-CRP",
+      "Heart Rate"
+    ]
+  },
+  {
+    "date_range": "August 4 - 10",
+    "title": "Managing a Tough Week & Planning for Travel",
+    "trigger": "Member reported an upcoming work trip to London and requested help in managing his health routine.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Poor sleep (score 68) and low HRV after a late client dinner and alcohol.",
+      "Missed strength and cardio workouts due to work and family commitments.",
+      "Left knee pain during lunges.",
+      "Blood pressure creeping up to 134/85.",
+      "Member expressed difficulty staying on track due to a tough work week."
+    ],
+    "outcome": "The team provided real-time support for a tough week, including substituting an exercise causing knee pain and offering flexible alternatives for missed workouts. A plan for an upcoming trip to London was initiated, with nutrition and logistics strategies provided.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Sleep Score",
+      "HRV",
+      "REM sleep",
+      "Body Temperature",
+      "Adherence",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "August 11 - 17",
+    "title": "Proactive Planning & Management for London Trip",
+    "trigger": "Team provided a list of healthy restaurants for Rohan's upcoming London trip.",
+    "triggered_by": "Elyx Team",
+    "friction_points": [
+      "Team identified that member's adherence during travel is a key challenge.",
+      "Flight to London was delayed.",
+      "Member experienced exhaustion and jet lag upon arrival.",
+      "Skipped a workout due to meetings and a client dinner.",
+      "Reported elevated blood pressure (138/88) due to travel stress."
+    ],
+    "outcome": "Team provided a travel-specific exercise plan, nutrition advice, and jet lag strategies. The member's elevated BP was acknowledged with reassurance, and a post-trip check-in with the doctor was scheduled internally.",
+    "decisions_made": [
+      "EX-2025-08-13-travel-plan"
+    ],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "Adherence",
+      "Sleep"
+    ]
+  },
+  {
+    "date_range": "August 18 - 24",
+    "title": "Business Travel Disruption & Post-Trip Recovery",
+    "trigger": "Member reported a frustratingly high Blood Pressure reading of 140/90 after returning from a business trip.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Poor sleep while traveling due to jet lag.",
+      "Deviation from nutrition plan for a team dinner.",
+      "Feeling 'completely wiped out' upon return.",
+      "Frustration with high blood pressure reading (140/90) post-travel."
+    ],
+    "outcome": "A multi-disciplinary post-travel recovery plan was implemented, focusing on a 3-day nutrition reset (hydration, whole foods) and low-intensity exercise (walking) to help normalize blood pressure. Member agreed to the plan.",
+    "decisions_made": [
+      "NU-2025-08-23-post-travel-reset"
+    ],
+    "kpis_impacted": [
+      "Sleep",
+      "Blood Pressure"
+    ]
+  },
+  {
+    "date_range": "August 25 - 31",
+    "title": "Post-Travel Recovery & Diet Clarification",
+    "trigger": "Member reported his blood pressure was coming down post-travel, initiating a discussion on recovery and travel strategy.",
+    "triggered_by": "Rohan Patel",
+    "friction_points": [
+      "Consistent pattern of BP spikes during travel.",
+      "Overall adherence for August was 55%, which is below the 75% target.",
+      "Member described the month as a 'rollercoaster' due to the impact of travel on his metrics."
+    ],
+    "outcome": "The team will analyze data to create a better in-travel strategy for an upcoming trip. The member received clarification on diet for ApoB management, confirming a Mediterranean approach over keto.",
+    "decisions_made": [],
+    "kpis_impacted": [
+      "Blood Pressure",
+      "HRV",
+      "ApoB",
+      "Sleep",
+      "Adherence",
+      "Resilience"
+    ]
+  }
+]

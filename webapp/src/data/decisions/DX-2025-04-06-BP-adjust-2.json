@@ -1,0 +1,7 @@
+{
+  "decision_id": "DX-2025-04-06-BP-adjust-2",
+  "summary": "To make minor adjustments to medication following a completed check-up.",
+  "trigger": "A check-up was completed.",
+  "rationale": [],
+  "owner": "Dr. Warren"
+}

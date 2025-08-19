@@ -1,0 +1,9 @@
+{
+  "decision_id": "DX-2025-04-20-BP-maintain",
+  "summary": "To maintain the member's current medication following a check-up.",
+  "trigger": "A check-up was completed.",
+  "rationale": [
+    "No specific context or data points were provided in the driver messages."
+  ],
+  "owner": "Dr. Warren"
+}
