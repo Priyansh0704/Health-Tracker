@@ -5,7 +5,7 @@ This project provides an interactive visualization of a member's 8-month health 
 🚀 Live Demo
 You can access the live, deployed web application here:
 
-https://your-deployment-link-goes-here.vercel.app/
+[https://your-deployment-link-goes-here.vercel.app/](https://health-tracker-2v06sytld-priyansh-goyals-projects.vercel.app/)
 
 ✨ Core Features
 Interactive Journey Timeline: View a high-level summary of the member's journey, broken down into weekly, AI-generated "episodes."
